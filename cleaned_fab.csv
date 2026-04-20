@@ -1,0 +1,475 @@
+Company,Plant name,Plant location,Plant cost (in US$ billions),Started production,Wafer size (mm),Process technology node (nm),Production capacity (Wafers/Month),Technology / products,Country_Clean
+STMicroelectronics,,"France, Crolles",,2003,"200, 300","28, 55, 65",,"Foundry, SiGe BiCMOS, FD-SOI",nan
+STMicroelectronics,"AG200, AG300","Italy, Agrate Brianza",,,"200, 300",,,"Foundry, MEMS",AG200
+nLIGHT,,"United States, Washington, Vancouver",,2001,,,,Laser diodes,nan
+Safran Sensing Technologies Switzerland (formerly Colibrys),,"Switzerland, Yverdon-les-Bains",,,150,,,"Foundry, MEMS",nan
+Pure Wafer,,"United States, Arizona, Prescott[2]",,,,,,Foundry,nan
+EM Microelectronic,,"Switzerland, La Tène, Neuchâtel",,1975,,"180, 110",,"Foundry, microcontrollers, ASIC, RFID, smart cards",nan
+UMC – He Jian,Fab 8N,"China, Suzhou","0.750,[3] 1.2, +0.5","2003, May[3]",200,"4000–1000, 500, 350, 250, 180, 110",77000,Foundry,Fab 8N
+UMC,Fab 6A,"Taiwan, Hsinchu",0.35[3],1989[3],150,450,31000,Foundry,Fab 6A
+UMC,Fab 8AB,"Taiwan, Hsinchu",1[3],1995[3],200,250,"67,000[4]",Foundry,Fab 8AB
+UMC,Fab 8C,"Taiwan, Hsinchu",1[3],1998[3],200,350–110,37000,Foundry,Fab 8C
+UMC,Fab 8D,"Taiwan, Hsinchu",1.5[3],2000[3],200,90,31000,Foundry,Fab 8D
+UMC,Fab 8E,"Taiwan, Hsinchu",0.96[3],1998[3],200,180,37000,Foundry,Fab 8E
+UMC,Fab 8F,"Taiwan, Hsinchu",1.5[3],2000[3],200,150,40000,Foundry,Fab 8F
+UMC,Fab 8S,"Taiwan, Hsinchu",0.8[3],2004[3],200,350–250,31000,Foundry,Fab 8S
+UMC,Fab 12A,"Taiwan, Tainan","4.65, 4.1, 6.6, 7.3[3]","2001, 2010, 2014, 2017[3]",300,"28, 14","87,000[4]",Foundry,Fab 12A
+UMC,Fab 12i,Singapore,3.7[3],2004[3],300,130–40,53000,Foundry,Fab 12i
+UMC – United Semiconductor,Fab 12X,"China, Xiamen",6.2,2016,300,55–28,"19,000-25,000 (2021)",Foundry,Fab 12X
+UMC – USJC (formerly MIFS) (formerly Fujitsu),Fab 12M (original Fujitsu installations)[5],"Japan, Mie Prefecture",,1974,"150, 200, 300[6]",90–40,33000,Foundry,Fab 12M (original Fujitsu installations)[5]
+Texas Instruments,Miho,"Japan,  Ibaraki, Miho",,,200,"350, 250[7]","40,000[8]","Analog, DLP[9]",Miho
+Texas Instruments (formerly Spansion),Aizu[10],"Japan,  Fukushima, Aizuwakamatsu",,,200,,,Analog,Aizu[10]
+Texas Instruments (formerly National Semiconductor),MFAB[11],"United States,  Maine, South Portland",0.932,1997,200,"350, 250, 180",,Analog,MFAB[11]
+Texas Instruments (formerly Micron) (formerly IM Flash),LFAB,"United States, Utah, Lehi","1.3[12] (+ 3–4, future)[13]",,300,65–45,70000,"Analog, mixed signal, logic NAND FLASH (former), 3D XPoint (former)",LFAB
+Texas Instruments,RFAB1[14],"United States,  Texas, Richardson",,2009,300,"250, 180","20,000[15]",Analog,RFAB1[14]
+Texas Instruments,RFAB2,"United States,  Texas, Richardson",,2022,300,,,Analog,RFAB2
+Texas Instruments,DMOS5,"United States,  Texas, Dallas",,1984,200,"250, 180",,"Analog, DLP",DMOS5
+Texas Instruments,DMOS6,"United States,  Texas, Dallas",,2000,300,130–45,"22,000[16]","Logic, Analog",DMOS6
+Texas Instruments,DFAB,"United States,  Texas, Dallas",,1966,"150, 200",,,"Mixed Signal, Analog",DFAB
+Texas Instruments,SFAB,"United States,  Texas, Sherman",,1965,150,,,Analog,SFAB
+Texas Instruments,FFAB,"Germany,  Bavaria, Freising",,,200,"1000, 180","37,500 (450,000 per year)[17]",Analog,FFAB
+Texas Instruments (formerly SMIC – Cension),CFAB,"China, Chengdu",,,200,,"30,000[18]",Analog,CFAB
+Tsinghua Unigroup[19],,"China, Nanjing","10 (first phase), 30",Planned,300,,"100,000 (first phase)",3D NAND,nan
+Tsinghua Unigroup – XMC (formerly Xinxin)[20],Fab 1,"China, Wuhan[3]",1.9,2008,300,"90, 65, 60, 50, 45, 40, 32","30,000[21]","Foundry, NOR",Fab 1
+Tsinghua Unigroup – Yangtze Memory Technologies (YMTC) – XMC (formerly Xinxin)[20][21][19],Fab 2,"China, Wuhan",24,2018[3],300,20,200000,3D NAND,Fab 2
+ChangXin Memory – (formerly Innotron Memory),Fab 1[22],"China, Hefei",8[23],2019[24],300,19,"20,000–40,000",DRAM,Fab 1[22]
+SMIC,S1 Mega Fab (S1A/S1B/S1C)[25],"China, Shanghai",,,200,350–90,"115,000[26]",Foundry,S1 Mega Fab (S1A/S1B/S1C)[25]
+SMIC,S2 (Fab 8)[25],"China, Shanghai",,,300,45/40–32/28,20000,Foundry,S2 (Fab 8)[25]
+SMIC – SMSC,SN1[25],"China, Shanghai",10,2020[27],300,14,"70,000[27]",Foundry,SN1[25]
+SMIC,"B1 Mega Fab (Fab 4, Fab 6)[25]","China, Beijing",,2004,300,180–90/55,52000,Foundry,B1 Mega Fab (Fab 4
+SMIC,B2A[25],"China, Beijing",3.59[28],2014,300,45/40–32/28,41000,Foundry,B2A[25]
+SMIC,Fab 15[25],"China, Shenzhen",,2014,200,350–90,55000,Foundry,Fab 15[25]
+SMIC,Fab 7[25],"China, Tianjin",,2004,200,350–90,"60,000[29]",Foundry,Fab 7[25]
+SMIC,Jingcheng,"China, Beijing",7.7[30],Under construction,300,28,100000,Foundry,Jingcheng
+SMIC,Lingang,"China, Shanghai",8.87[31],Under construction,300,28,100000,Foundry,Lingang
+SMIC,Shenzhen,"China, Shenzhen",2.35[32],Under construction,300,28,40000,Foundry,Shenzhen
+SMIC,Xiqing,"China, Tianjin",7.5[33],Under construction,300,28,100000,Foundry,Xiqing
+Wuxi Xichanweixin (formerly SMIC – LFoundry [de]) (formerly LFoundry [de]) (formerly Micron)[34] (formerly Texas Instruments),LF,"Italy, Abruzzo, Avezzano",,1995,200,180–90,40000,,LF
+Nanya,Fab 2,"Taiwan, Linkou",0.8,2000,200[35],175,30000,DRAM,Fab 2
+Nanya,Fab 3A[36],"Taiwan, New Taipei City[37]",1.85[38],2018,300,70-20,"34,000[39]",DRAM,Fab 3A[36]
+Nanya,,"Taiwan, New Taipei City[40]",10.66,Under construction,300,10,"15,000–45,000",DRAM,nan
+MESA+ Institute,NANOLAB,"Netherlands, Enschede",,,,,,"Academic research, R&D activities, pilot production for MEMS, Photonics, Microfluidics",NANOLAB
+Micron,Fab 4[41],"United States, Idaho, Boise",,,300,,,R&D,Fab 4[41]
+Micron (formerly Dominion Semiconductor),Fab 6,"United States,  Virginia, Manassas",,1997,300,25,70000,"DRAM, NAND FLASH, NOR",Fab 6
+Micron (formerly TECH Semiconductor),"Fab 7 (formerly TECH Semiconductor, Singapore)[42]",Singapore,,,300,,60000,NAND FLASH,Fab 7 (formerly TECH Semiconductor
+Micron (formerly IM Flash)[43],Fab 10[44],Singapore,3,2011,300,25,"140,000[45]",NAND FLASH,Fab 10[44]
+Micron (formerly Inotera),Fab 11[46],"Taiwan, Taoyuan",,,300,20 and under,"125,000[47]",DRAM,Fab 11[46]
+Micron,Fab 13[48],Singapore,,,200,,,NOR,Fab 13[48]
+Micron,,Singapore[49],,,200,,,NOR Flash,nan
+Micron,Micron Semiconductor Asia,Singapore[49],,,,,,,Micron Semiconductor Asia
+Micron,,"China, Xi'an[49]",,,,,,,nan
+Micron (formerly Elpida Memory),"Fab 15 (formerly Elpida Memory, Hiroshima)[41][49]","Japan, Hiroshima",,,300,20 and under,100000,DRAM,Fab 15 (formerly Elpida Memory
+Micron (formerly Rexchip),"Fab 16 (formerly Rexchip, Taichung)[41]","Taiwan, Taichung",,,300,30 and under,80000,"DRAM, FEOL",Fab 16 (formerly Rexchip
+Micron (formerly Cando),Micron Memory Taiwan[49],"Taiwan, Taichung",,"?, 2018",300,,,"DRAM, BEOL",Micron Memory Taiwan[49]
+Micron,A3,"Taiwan, Taichung[50]",,Under construction,300,,,DRAM,A3
+Intel,D1B,"United States,  Oregon, Hillsboro",,1996,300,"22, 14, 10",,Microprocessors[51],D1B
+Intel,D1C[52][51],"United States,  Oregon, Hillsboro",,2001,300,"22, 14, 10",,Microprocessors[51],D1C[52][51]
+Intel,D1D[52][51],"United States,  Oregon, Hillsboro",,2003,300,"14, 10, 7",,Microprocessors[51],D1D[52][51]
+Intel,D1X[53][51],"United States,  Oregon, Hillsboro",,2013,300,"14, 10, 7",,Microprocessors[51],D1X[53][51]
+Intel,Fab 12[52][51],"United States,  Arizona, Chandler",,1996,300,"65, 22, 14",,Microprocessors & chipsets[51],Fab 12[52][51]
+Intel,Fab 32[52][54],"United States,  Arizona, Chandler",3,2007,300,45,,,Fab 32[52][54]
+Intel,Fab 32[52][51],"United States,  Arizona, Chandler",,2007,300,"32, 22",,Microprocessors[51],Fab 32[52][51]
+Intel,Fab 42[55][56][51],"United States,  Arizona, Chandler",10[57],2020[58],300,"10, 7",,Microprocessors[51],Fab 42[55][56][51]
+Intel,"Fab 52, 62[59][60]","United States,  Arizona, Chandler",20[59],2024[59],,,,Microprocessors[59],Fab 52
+Intel,Fab 11x[52][51],"United States, New Mexico, Rio Rancho",,2002,300,"45, 32",,Microprocessors[51],Fab 11x[52][51]
+Intel (formerly Micron) (formerly Numonyx) (formerly Intel),Fab 18[61],"Israel, Southern District, Kiryat Gat",,1996,"200, 300","180, 90, 65, 45",,"Microprocessors and chipsets,[62] NOR flash",Fab 18[61]
+Intel,Fab 10[52],"Ireland, County Kildare, Leixlip",,1994,300,,,,Fab 10[52]
+Intel,Fab 14[52],"Ireland, County Kildare, Leixlip",,1998,300,,,,Fab 14[52]
+Intel,Fab 24[52][51],"Ireland, County Kildare, Leixlip",,2004,300,"90, 65, 14[63]",,"Microprocessors, Chipsets and Comms[51]",Fab 24[52][51]
+Intel,Fab 28[52][51],"Israel, Southern District, Kiryat Gat",,2008,300,"45, 22, 10",,Microprocessors[51],Fab 28[52][51]
+Intel,Fab 38[64],"Israel, Southern District, Kiryat Gat",,Under construction,300,,,Microprocessors[51],Fab 38[64]
+Intel,Fab 68[52][65],"China, Dalian",2.5,2010,300,65[66],"30,000–52,000","Microprocessors (former), VNAND[51]",Fab 68[52][65]
+"Costa Rican Ministry of Innovation, Science, Technology and Telecommunications","Centro de Exelencia, Distrito Tecnologico T24","Costa Rica,  San Jose,  San Jose",0.5,Under Construction,300,20 and under,,"Research on Foundry, AI BEOL & microprocessors",Centro de Exelencia
+Tower Semiconductor (formerly Maxim) (formerly Philips) (formerly VLSI),Fab 9[67][68],"United States,  Texas, San Antonio",,2003,200,180,28000,"Foundry, Al BEOL, Power, RF Analog",Fab 9[67][68]
+Tower Semiconductor (formerly National Semiconductor),Fab 1[69],"Israel, Northern District, Migdal HaEmek",0.235[3],"1989, 1986[3]",150,1000–350,14000,"Foundry, Planarized BEOL, W and Oxide CMP, CMOS, CIS, Power, Power Discrete",Fab 1[69]
+Tower Semiconductor,Fab 2[69],"Israel, Northern District, Migdal HaEmek",1.226[3],2003,200,180–130,"51,000[3]","Foundry, Cu and Al BEOL, EPI, 193 nm Scanner, CMOS, CIS, Power, Power Discrete, MEMS, RFCMOS",Fab 2[69]
+Tower Semiconductor (formerly Jazz Technologies) (formerly Conexant) (formerly Rockwell),"Fab 3,[69] Newport Beach[3]","United States,  California, Newport Beach",0.165[3],"1967, 1995[3]",200,500-130,"25,000[3]","Foundry, Al BEOL, SiGe, EPI",Fab 3
+Tower Semiconductor – TPSCo (formerly Panasonic),"Fab 5,[69] Tonami[70]","Japan, Tonami",,1994,200,500–130,,"Foundry, Analog/Mixed-Signal, Power, Discrete, NVM, CCD",Fab 5
+Tower Semiconductor – TPSCo (formerly Panasonic),"Fab 7,[69] Uozu[70]","Japan, Uozu",,1984,300,65. 45,,"Foundry, CMOS, CIS, RF SOI, Analog/Mixed-Signal",Fab 7
+Tower Semiconductor – TPSCo (formerly Panasonic),"Fab 6,[69] Arai[70]","Japan, Arai",,1976,200,130–110,,"Foundry, Analog/Mixed-Signal, CIS, NVM,Thick Cu RDL",Fab 6
+Nuvoton[71],Fab2,"Taiwan, Hsinchu",,,150,1000-350,"45,000[71]","Generic Logic, Mixed Signal (Mixed Mode), High Voltage, Ultra High Voltage, Power Management, Mask ROM (Flat Cell), Embedded Logic, Non-Volatile Memory, IGBT, MOSFET, Biochip, TVS, Sensor",Fab2
+ISRO,SCL[72],"India, Mohali",,2006,200,180,,"MEMS, CMOS, CCD, N.S.",SCL[72]
+STAR-C[73][74],MEMS[74],"India, Bangalore",,1996,150,1000–500,,MEMS,MEMS[74]
+STAR-C[73][74],CMOS[74],"India, Bangalore",,1996,150,1000–500,,CMOS,CMOS[74]
+GAETEC[73][75],GaAs[75],"India, Hyderabad",,1996,150,700–500,,MESFET,GaAs[75]
+BAE Systems (formerly Sanders),,"United States, New Hampshire, Nashua[3]",,1985[3],"100, 150","140, 100, 70, 50",,"MMIC, GaAs, GaN-on-SiC, foundry",nan
+Qorvo (formerly RF Micro Devices),,"United States, North Carolina, Greensboro[76]",,,100150,500,8000,"SAW filters, GaAs HBT, GaAs pHEMT, GaN",nan
+Qorvo (formerly TriQuint Semiconductor) (formerly Micron) (formerly Texas Instruments) (formerly TwinStar Semiconductor),,"United States,  Texas, Richardson[76]",0.5,1996,"100, 150, 200","350, 250, 150, 90",8000,"DRAM (former), BAW filters, power amps, GaAs pHEMT, GaN-on-SiC",nan
+Qorvo (formerly TriQuint Semiconductor),,"United States,  Oregon, Hillsboro[76]",,,"100, 150",500,,"Power amps, GaAs",nan
+Apple (formerly Maxim) (formerly Samsung),X3[77],"United States,  California, San Jose",,"?, 1997, 2015[78]",,600–90,,,X3[77]
+Analog Devices (formerly Maxim Integrated),MaxFabNorth[79],"United States,  Oregon, Beaverton","(+1, future)[80]",,,,,,MaxFabNorth[79]
+Rohm[81] (formerly Renesas),Shiga Factory,Japan,,,200,150,,"IGBT, MOSFET, MEMS",Shiga Factory
+Rohm (Lapis Semiconductor)(formerly Oki Semiconductor)(Oki Electric Industry)[81][82],Miyasaki,Japan,,,,150,,MEMS,Miyasaki
+Rohm (Lapis Semiconductor)[81],Building No.1,Japan,,1961[83],,,,Transistors,Building No.1
+Rohm (Lapis Semiconductor)[81],Building No.2,Japan,,1962[83],,,,Transistors,Building No.2
+Rohm (Lapis Semiconductor)[81],Building No.3,Japan,,1962[83],,,,Transistors,Building No.3
+Rohm (Lapis Semiconductor)[81],Building No.4,Japan,,1969[83],,,,Transistors,Building No.4
+Rohm (Lapis Semiconductor)[81],Chichibu Plant,Japan,,1975[83],,,,DRAM,Chichibu Plant
+Rohm (Lapis Semiconductor)[81],VLSI Laboratory No. 1,Japan,,1977[83],,,,VLSI,VLSI Laboratory No. 1
+Rohm (Lapis Semiconductor)[81],VLSI Laboratory No. 2,Japan,,1983[83],,,,,VLSI Laboratory No. 2
+Rohm (Lapis Semiconductor)[81],VLSI Laboratory No. 3,Japan,,1983[83],,,,DRAM,VLSI Laboratory No. 3
+Rohm (Lapis Semiconductor)[81],,Thailand,,1992[83],,,,,nan
+Rohm (Lapis Semiconductor)[81],ULSI Laboratory No. 1,Japan,,1992[83],,500,,DRAM,ULSI Laboratory No. 1
+Rohm (Kionix)[84] (formerly Renesas Kyoto),Kyoto,"Japan, Kyoto",,,200,,,MEMS,Kyoto
+Fuji Electric[85],Hokuriku,"Japan, Toyama prefecture",,,,,,,Hokuriku
+Fuji Electric[86],Matsumoto[87],"Japan, Nagano prefecture",,,"100, 150",2000–1000,20000,"CMOS. BiCMOS, bipolar, ASICs, discrete",Matsumoto[87]
+Fujitsu,Kawasaki,"Japan, Kawasaki",,1966[88],,,,,Kawasaki
+Fujitsu,Kumagaya Plant[89],"Japan, Saitama, 1224 Oaza-Nakanara, Kumagaya-shi, 360-0801",,1974,,,,,Kumagaya Plant[89]
+Fujitsu[90],Suzaka Plant,"Japan, Nagano, 460 Oaza-Koyama, Suzaka-shi, 382-8501",,,,,,,Suzaka Plant
+Dynex Semiconductor,,"Lincoln, United Kingdom",,1956,"101.6, 150",,,Power Semiconductors,nan
+Denso (formerly Fujitsu),Iwate Plant[91][6][87],"Japan, Iwate, 4-2 Nishinemoriyama, Kanegasaki-cho, Isawa-gun, 029-4593",,,"125, 150, 200",1500–350,100000,"CMOS, MOS, bipolar",Iwate Plant[91][6][87]
+Denso[92],Denso Iwate[93][94][95],"Japan, Iwate Prefecture, Kanegasaki-cho",0.088,"Under construction, 2019, May (planned)",,,,Semiconductor wafers and sensors (since June 2017),Denso Iwate[93][94][95]
+Canon Inc.,Oita[96],Japan,,,,,,,Oita[96]
+Canon Inc.,Kanagawa[97],Japan,,,,,,,Kanagawa[97]
+Canon Inc.,Ayase[96],Japan,,,,,,,Ayase[96]
+Sharp Corporation,Fukuyama[98][87],Japan,,,"125, 150, 200","1000, 800, 600",85000,CMOS,Fukuyama[98][87]
+Japan Semiconductor [99],Iwate,Japan,,,,,,,Iwate
+Japan Semiconductor[99],Oita,Japan,,,,,,,Oita
+"Japan Advanced Semiconductor Manufacturing, Inc[100]",Kumamoto,Japan,20+,2024,300,"40, 22/28, 12/16 and 6/7","100,000+",,Kumamoto
+Kioxia,Yokkaichi Operations[101][102],"Japan, Yokkaichi",,1992,,,"173,334[103][104][105][106]",Flash Memory,Yokkaichi Operations[101][102]
+Kioxia/SanDisk,Y5 Phase 1 (at Yokkaichi Operations),"Japan, 800 Yamanoisshikicho, Yokkaichi, Mie[107]",,2011,,,,Flash,Y5 Phase 1 (at Yokkaichi Operations)
+Kioxia/SanDisk,Y5 Phase 2[107] (at Yokkaichi Operations),"Japan, Mie",,2011,300,15[108],,Flash,Y5 Phase 2[107] (at Yokkaichi Operations)
+Kioxia[109],Y3 (at Yokkaichi Operations),"Japan, Yokkaichi",,,300,,,NAND Memory,Y3 (at Yokkaichi Operations)
+Kioxia[110],Y4 (at Yokkaichi Operations),"Japan, Yokkaichi",,2007,300,,,NAND Memory,Y4 (at Yokkaichi Operations)
+Kioxia[111],Kaga Toshiba,"Japan, Ishikawa",,,,,,Power semiconductor devices,Kaga Toshiba
+Kioxia[112],Oita Operations,"Japan, Kyushu",,,,,,,Oita Operations
+Kioxia[113][114],Y6 (phase 1) (at Yokkaichi Operations)[115],"Japan, Yokkaichi","1.6, 1.7, 1.8 (estimates) (combined costs of installation of equipment at Phase 1 and construction of Phase 2)[116][102]",2018,300,,,BiCS FLASH™,Y6 (phase 1) (at Yokkaichi Operations)[115]
+Kioxia[113][114],Y6 (phase 2) (at Yokkaichi Operations),"Japan, Yokkaichi","1.6, 1.7, 1.8 (estimates) (combined costs of installation of equipment at Phase 1 and construction of Phase 2)[116][102]",Planned,300,,,BiCS FLASH™,Y6 (phase 2) (at Yokkaichi Operations)
+Kioxia[113][114],Y7,"Japan, Yokkaichi",4.6[117][118],Planned,300,,,BiCS FLASH™,Y7
+Kioxia[113],Y2 (at Yokkaichi Operations),"Japan, Yokkaichi",,1995,,,,3D NAND,Y2 (at Yokkaichi Operations)
+Kioxia[119][120],New Y2 (at Yokkaichi Operations),"Japan, Yokkaichi",,"2016, July 15",300,,,3D NAND,New Y2 (at Yokkaichi Operations)
+Kioxia[121][122][123][124],K1,"Japan, Iwate Prefecture",,Under construction,300,,,3D NAND,K1
+MinebeaMitsumi[125],Rinkai Factory,"Japan, 5-2-2, Omikacho, Hitachi-shi, Ibaraki, 319–1221",,,,,,MEMS Foundry,Rinkai Factory
+MinebeaMitsumi[125],Haramachi Factory,"Japan, 20 Aza Oohara, Shimo-Ota, Haramachi-ku, Minamisouma-shi, Fukushima, 975-0041",,,,,,Power semiconductors,Haramachi Factory
+Hitachi Energy (Formerly ABB)[126],Lenzburg,"Switzerland, Aargau, Lenzburg",0.14,2010 (second phase),"130, 150",,18750,"High power semiconductors, diodes, IGBT, BiMOS",Lenzburg
+Mitsubishi Electric[127],"Power Device Works, Kunamoto Site[87]",Japan,,,"100, 125, 150, 200",2000–400,122000,Power semiconductors,Power Device Works
+Mitsubishi Electric[128],High frequency optical device manufacturing plant[87],"Japan, Hyogo Prefecture[128]",,,"100, 125",,30000,"High frequency semiconductor devices (GaAsFET, GaN, MMIC)[128]",High frequency optical device manufacturing plant[87]
+Powerchip Semiconductor,"Memory Foundry, Fab P1[129][130]","Taiwan, Hsinchu",2.24[3],2002[3],300,"90, 70, 22[131]",80000,"Foundry, Memory IC, LCD drive IC, Integrated Memory Chips, CMOS Image Sensors, and Power Management IC",Memory Foundry
+Powerchip Semiconductor,Fab P2[130],"Taiwan, Hsinchu, Hsinchu Science Park",1.86[3],2005[3],300,"90, 70, 22[131]",80000,"Foundry, Memory IC, LCD drive IC, Integrated Memory Chips, CMOS Image Sensors, and Power Management IC",Fab P2[130]
+Powerchip Semiconductor (formerly Macronix),Fab P3[130],"Taiwan, Hsinchu, Hsinchu Science Park",,,300,"90, 70, 22[131]",20000,"Foundry, Memory IC, LCD drive IC, Integrated Memory Chips, CMOS Image Sensors, and Power Management IC",Fab P3[130]
+SPIL (formerly ProMOS),ProMOS Fab 4[132][133],"Taiwan, Taichung",1.6,,300,70,,Advanced Packaging,ProMOS Fab 4[132][133]
+Macronix (formerly ProMOS)[134],Fab 5,"Taiwan, Hsinchu[135]",,,300,,50000,,Fab 5
+Macronix[134],Fab 2,Taiwan,,,200,,48000,,Fab 2
+Hon Young Semiconductor (formerly Macronix[134]),Fab 1[136],,,,150,800-400,40000,"Foundry, SiC, Automotive MOSFETs, MEMS",Fab 1[136]
+Renesas[137],Naka Factory,Japan,,2009,300,28[138],,,Naka Factory
+Renesas[137],Takasaki Factory,"Japan, 111, Nishiyokotemachi, Takasaki-shi, Gunma, 370-0021",,,,,,,Takasaki Factory
+Renesas[137],Kawashiri Factory,"Japan, 1-1-1, Yahata, Minami-ku, Kumamoto-shi, Kumamoto, 861–4195",,,,,,,Kawashiri Factory
+Renesas[137],Saijo Factory,"Japan, 8–6, Hiuchi, Saijo-shi, Ehime, 793-8501",,,,,,,Saijo Factory
+Renesas – Intersil[137],Palm Bay,"United States, Florida, Palm Bay",,,,,,,Palm Bay
+Bosch (formerly TSI Semiconductors[139]) (formerly Renesas),"Roseville fab, M-Line, TD-Line, K-Line[140][3]","United States,  California, Roseville",,"1992, 1985[3]",200,,,,Roseville fab
+TDK – Micronas,FREIBURG[141][142],"Germany, 19 D-79108, Hans-Bunte-Strasse",,,,,,,FREIBURG[141][142]
+TDK (formerly Renesas),Tsuruoka Higashi[143][144],,,,125[145],,,,Tsuruoka Higashi[143][144]
+TDK – Tronics,,"United States,  Texas, Addison[146]",,,,,,,nan
+Silanna (formerly Sapphicon Semiconductor),,"Australia, New South Wales, Sydney[3]",0.03,"1965,1989[3]",150,,,,nan
+Silanna (formerly Sapphicon Semiconductor) (formerly Peregrine Semiconductor) (formerly Integrated Device Technology),,"Australia, New South Wales, Sydney [147]",,,150,"500, 250",,"RF CMOS, SOS, foundry",nan
+Murata Manufacturing[148],Nagano[145],Japan,0.1,,Murata en France (ex IPDIA)[149],,,SAW filters[145],Nagano[145]
+Murata Manufacturing[148],Otsuki[145],Japan,,,,,,,Otsuki[145]
+Murata Manufacturing[148],Kanazawa,Japan,0.111,,,,,SAW filters[145],Kanazawa
+Murata Manufacturing (formerly Fujifilm)[150][151],Sendai,"Japan, Miyagi Prefecture",0.092[145],,,,,MEMS[152],Sendai
+Murata Manufacturing[150],Yamanashi,"Japan, Yamanashi Prefecture",,,,,,,Yamanashi
+Murata Manufacturing[153],Yasu,"Japan, Shiga Prefecture, Yasu",,,,,,,Yasu
+"Murata Electronics (Finland)[154] (formerly VTI, since 1979 Vaisalas int. semicon. line)[155]",Vantaa,Finland,,"2012,[156] expanded 2019[157]",,,,"3D MEMS accelerometers, inclinometers, pressure sensors, gyros, oscillators etc.[158]",Vantaa
+Murata Integrated Passive Solutions[159] (formerly NXP then IPDiA[160]),,"France, Calvados, Caen",,,,,,"Foundry, Silicon wafers, passive components",nan
+Mitsumi Electric[161],Semiconductor Works #3,"Japan, Atsugi Operation Base",,2000,,,,,Semiconductor Works #3
+Mitsumi Electric[161],,"Japan, Atsugi Operation Base",,1979,,,,,nan
+Sony[162],Kagoshima Technology Center[87],"Japan, Kagoshima",,1973,"100, 125, 150",2000–500,110000,"Bipolar CCD, MOS, MMIC, SXRD",Kagoshima Technology Center[87]
+Sony[162],Oita Technology Center,"Japan, Oita",,2016,,,,CMOS Image Sensor,Oita Technology Center
+Sony[162],Nagasaki Technology Center[87],"Japan, Nagasaki",,1987,150,1000-350,80000,"MOS LSI, CMOS Image Sensors, SXRD",Nagasaki Technology Center[87]
+Sony[162],Kumamoto Technology Center,"Japan, Kumamoto",,2001,,,,"CCD Image Sensors, H-LCD, SXRD",Kumamoto Technology Center
+Sony[162],Shiroishi Zao Technology Center,"Japan, Shiroishi",,1969,,,,Semiconductor Lasers,Shiroishi Zao Technology Center
+Sony,Sony Shiroishi Semiconductor Inc.,"Japan, Miyagi",,,,,,Semiconductor Lasers[163],Sony Shiroishi Semiconductor Inc.
+Sony (formerly Renesas) (formerly NEC Electronics) (formerly NEC)[162][164][165],Yamagata Technology Center[87],"Japan, Yamagata",,2014 (Sony),"100, 125, 150, 200","3000, 2000, 800",,"MOS, bipolar, CMOS Image Sensor, eDRAM (formerly)",Yamagata Technology Center[87]
+SK Hynix[166],,"China, Chongqing",,,,,,,nan
+SK Hynix[166],,"China, Chongqing",,,,,,,nan
+SK Hynix[167][168],,"South Korea, Cheongju, Chungcheongbuk-do",,Under construction[169],,,,NAND Flash,nan
+SK Hynix[168],,"South Korea, Cheongju",,Under construction,,,,NAND Flash,nan
+SK Hynix,HC1,"China, Wuxi",,,300,,"100,000[20]",DRAM,HC1
+SK Hynix,HC2,"China, Wuxi",,,300,,"70,000[20]",DRAM,HC2
+SK Hynix[168],M16,"South Korea, Icheon",3.13 (13.4 total planned),2021[170],300,10 (EUV),"15,000–20,000 (initial)",DRAM,M16
+LG Innotek[171],Paju,"South Korea, 570, Hyuam-ro, Munsan-eup, Paju-si, Gyeonggi-do, 10842",,,,,,"LED Epi-wafer, Chip, Package",Paju
+ON Semiconductor (formerly GlobalFoundries) (formerly IBM)[172][173][174],,"United States, New York, East Fishkill","2.5, +.29 (future)[175]",2002,300,"90–22, 14","12,000–15,000[175]","Foundry, RF SOI, SOI FinFET (former), SiGe, SiPh",nan
+ON Semiconductor (formerly LSI),Gresham[176],"United States,  Oregon, Gresham",,,200,110,,,Gresham[176]
+ON Semiconductor (formerly Fairchild Semiconductor) (formerly National Semiconductor) (formerly Fairchild Semiconductor),,"United States,  Pennsylvania, Mountain Top",,1960–1997,200,350,,,nan
+ON Semiconductor (formerly TESLA),Roznov,"Czech Republic, Zlín, Rožnov pod Radhoštěm",,1956,"150, 200",1000,80000,"Si, SiC",Roznov
+ON Semiconductor (formerly Motorola),ISMF,"Malaysia, Seremban",,,150,350,80000,Discrete,ISMF
+ON Semiconductor (formerly Fujitsu)[177][178],Aizu Wakamatsu Plant[179][87],"Japan, Fukushima, 3 Kogyo Danchi, Monden-machi, Aizuwakamatsu-shi, 965-8502",,1970[88],"150, 200[180][181][182][183]",2000-130,,"Memory, Logic",Aizu Wakamatsu Plant[179][87]
+JS Foundry K.K. (formerly ON Semiconductor) (formerly Sanyo)[184][185],Niigata[87],"Japan, Niigata",,,"125, 150","2000–600, 350",120000,"CMOS, bipolar, BiCMOS",Niigata[87]
+LA Semiconductor (formerly ON Semiconductor) (formerly AMI Semiconductor),Pocatello[186],"United States, Idaho, Pocatello",,1997[187],200,350,,,Pocatello[186]
+Diodes Incorporated[188] (formerly ON Semiconductor) (formerly Fairchild Semiconductor) (formerly National Semiconductor) (formerly Fairchild Semiconductor),SPFAB,"United States,  Maine, South Portland",,1960–1997,200,350,,,SPFAB
+Diodes Incorporated[189] (formerly Zetex Semiconductors),OFAB,"UK,  England, Greater Manchester, Oldham",,,150,,,,OFAB
+Diodes Incorporated (formerly BCD Semi)[190],,China,,,150,4000–1000,,,nan
+Lite-On Optoelectronics[191],,"China, Tianjin",,,,,,,nan
+Lite-On Optoelectronics[191],,"Thailand, Bangkok",,,,,,,nan
+Lite-On Optoelectronics[191],,"China, Jiangsu",,,,,,,nan
+Lite-On Semiconductor[192],Keelung Plant,"Taiwan, Keelung",,1990,100,,,"Thyristor, DIscrete",Keelung Plant
+Lite-On Semiconductor[192],Hsinchu Plant,"Taiwan, Hsinchu",,2005,,,,"Bipolar BCD, CMOS",Hsinchu Plant
+Lite-On Semiconductor[192],Lite-On Semi (Wuxi),"China, Jiangsu",,2004,100,,,Discrete,Lite-On Semi (Wuxi)
+Lite-On Semiconductor[192],Wuxi WMEC Plant,"China, Jiangsu",,2005,,,,"Discrete, Power, Optical ICs",Wuxi WMEC Plant
+Lite-On Semiconductor[192],Shanghai (SSEC) Plant,"China, Shanghai",,1993,76,,,"Fab, Assembly",Shanghai (SSEC) Plant
+Trumpf[193] (formerly Philips Photonics),,"Germany, Baden-Württemberg, Ulm",,,,,,VCSEL,nan
+Philips[194],,"Netherlands, North Brabant, Eindhoven",,,"150, 200",,30000,"R&D, MEMS",nan
+Newport Wafer Fab[195] (formerly Infineon Technologies),FAB11,"UK,  Wales, Newport",,,200[196],700-180[196],"32,000[196]","Foundry, Compound Semiconductors, IC, MOSFET, IGBT[197]",FAB11
+Nexperia (formerly NXP Semiconductors) (formerly Philips),Hamburg site[198],"Germany, Hamburg",,1953,200,,35000,Small-signal and bipolar discrete devices,Hamburg site[198]
+Nexperia (formerly NXP Semiconductors) (formerly Philips) (formerly Mullard),Manchester[198],"UK,  England, Greater Manchester, Stockport",,1987?,"150, 200",,24000,"GaN FETs, TrenchMOS MOSFETs",Manchester[198]
+NXP Semiconductors (formerly Philips),ICN8,"Netherlands, Gelderland, Nijmegen",,,200,,"40,000+[199]",SiGe,ICN8
+NXP Semiconductors - SSMC,SSMC,Singapore,1.7[3],2001[3],200,120,53000,SiGe,SSMC
+NXP Semiconductors – Jilin Semiconductor,,"China, Jilin",,,130,,,,nan
+NXP Semiconductors (formerly Freescale Semiconductor) (formerly Motorola),Oak Hill Fab[200],"United States,  Texas, Austin",0.8[201],1991,200,250,,,Oak Hill Fab[200]
+NXP Semiconductors (formerly Freescale Semiconductor) (formerly Motorola),Chandler Fab[202],"United States,  Arizona, Chandler[203]",1.1[204] +0.1 (GaN),1993,"150 (GaN), 200",180,,GaN-on-SiC pHEMT,Chandler Fab[202]
+NXP Semiconductors (formerly Freescale Semiconductor) (formerly Motorola),ATMC[205],"United States,  Texas, Austin",,1995,200,90,,,ATMC[205]
+AWSC,,"Taiwan, Tainan[3]",,1999[3],150,,12000,"Foundry, GaAs HBT, D pHEMT, IPD, ED pHEMT, ED BiHEMT, InGaP",nan
+Skyworks Solutions[206] (formerly Conexant) (formerly Rockwell),,"United States,  California, Newbury Park",,,"100, 150",,,"Compound Semiconductors (GaAs, AlGaAs, InGaP)",nan
+Skyworks Solutions[206] (formerly Alpha Industries),,"United States, Massachusetts, Woburn",,,"100, 150",,,"RF/cellular components (SiGe, GaAs)",nan
+Skyworks Solutions[206],,"Japan, Osaka",,,,,,"SAW, TC-SAW Filters",nan
+Skyworks Solutions[206],,"Japan, Kadoma",,,,,,"SAW, TC-SAW Filters",nan
+Skyworks Solutions[206],,"Singapore, Bedok South Road",,,,,,"SAW, TC-SAW Filters",nan
+Win Semiconductor,Fab A[207],"Taiwan, Taoyuan City",,,150[208],2000–10,,"Foundry, GaAs",Fab A[207]
+Win Semiconductor,Fab B[207],"Taiwan, Taoyuan City",,,150[208],2000–10,,"Foundry, GaAs, GaN",Fab B[207]
+Win Semiconductor,Fab C,"Taiwan, Taoyuan[3]","0.050, 0.178","2000, 2009[3]",150,,,"Foundry, GaAs",Fab C
+AMS-Osram[209],FAB B,"Austria, Styria, Unterpremstätten",,,200,350,,Optoelectronics,FAB B
+AMS-Osram (formerly Osram Opto Semiconductors),,"Malaysia, Kulim, Kulim Hi-Tech Park","0.350, 1.18[210]","2017, 2020 (second phase, planned)[211][212]",150,,,LEDs,nan
+AMS-Osram (formerly Osram Opto Semiconductors),,"Malaysia, Penang[213][214]",,2009,100,,,LEDs,nan
+AMS-Osram (formerly Osram Opto Semiconductors),,"Germany,  Bavaria, Regensburg[215]",,"2003, 2005 (second phase)[216]",,,,LEDs,nan
+Winbond,Memory Product Foundry[217],"Taiwan, Taichung",,,300,46,,,Memory Product Foundry[217]
+Winbond,CTSP Site[218][219],"Taiwan, No. 8, Keya 1st Rd., Daya Dist., Central Taiwan Science Park, Taichung City 42881",,,300,,,,CTSP Site[218][219]
+Winbond[220],,,,Planned,300,,,,nan
+Vanguard International Semiconductor,Fab 1[136],"Taiwan, Hsinchu",0.997[3],1994[3],200,"500, 350, 250",55000,"Foundry, CMOS",Fab 1[136]
+Vanguard International Semiconductor (formerly Winbond),Fab 2 (formerly Fab 4&5)[221],"Taiwan, Hsinchu",0.965[3],1998[3],200,,55000,Foundry,Fab 2 (formerly Fab 4&5)[221]
+Vanguard International Semiconductor Corporation (formerly GlobalFoundries) (formerly Chartered),Fab 3E[222],Singapore,1.3[3],,200,180,34000,Foundry,Fab 3E[222]
+TSMC,Fab 2[223][136],"Taiwan, Hsinchu",0.735[3],1990[3],150,"800, 600, 500","88,000[224][3]","Foundry, CMOS",Fab 2[223][136]
+TSMC,Fab 3[136],"Taiwan, Hsinchu",2[3],1995[3],200,"500, 350, 250","100,000[3]","Foundry, CMOS",Fab 3[136]
+TSMC,Fab 5[136],"Taiwan, Hsinchu",1.4[3],1997[3],200,"350, 250, 180","48,000[3]","Foundry, CMOS",Fab 5[136]
+TSMC,Fab 6,"Taiwan, Tainan",2.1[3],"2000, January; 2001[225]","200, 300",180–?,"99,000[3]",Foundry,Fab 6
+TSMC (formerly TASMC) (formerly Acer Semiconductor Manufacturing Inc.) (formerly Texas Instruments)[226][227][228],Fab 7[229],Taiwan,,,200,"350, 250, 220, 180",33000,"Foundry (current) DRAM (former), Logic (former)",Fab 7[229]
+TSMC (formerly WSMC),Fab 8[230],"Taiwan, Hsinchu",1.6[3],1998[3],200,"250, 180","85,000[3]",Foundry,Fab 8[230]
+TSMC (formerly WSMC)[231],,,,2000,200,"250, 150",30000,Foundry,nan
+TSMC China Company,Fab 10,"China, Shanghai",1.3[3],2004[3],200,,74000,Foundry,Fab 10
+TSMC,Fab 12,"Taiwan, Hsinchu","5.2, 21.6 (total, all phases combined)[3]",2001[3],300,150–28,"77,500–123,800 (all phases combined)[3]",Foundry,Fab 12
+TSMC,Fab 12 (P4),"Taiwan, Hsinchu",6[3],2009[3],300,20,"40,000[3]",Foundry,Fab 12 (P4)
+TSMC,Fab 12 (P5),"Taiwan, Hsinchu",3.6[3],2011[3],300,20,"6,800[3]",Foundry,Fab 12 (P5)
+TSMC,Fab 12 (P6),"Taiwan, Hsinchu",4.2[3],2013[3],300,16,25000,Foundry,Fab 12 (P6)
+TSMC,Fab 14,"Taiwan, Tainan",5.1[3],"2002,[225] 2004[3]",300,20,"82,500[3]",Foundry,Fab 14
+TSMC,Fab 14 (B),"Taiwan, Tainan",,,300,16,"50,000+[232]",Foundry,Fab 14 (B)
+TSMC,Fab 14 (P3)[3],"Taiwan, Tainan",3.1[3],2008[3],300,16,"55,000[3]",Foundry,Fab 14 (P3)[3]
+TSMC,Fab 14 (P4)[3],"Taiwan, Tainan",3.750[3],2011[3],300,16,"45,500[3]",Foundry,Fab 14 (P4)[3]
+TSMC,Fab 14 (P5)[3],"Taiwan, Tainan",3.650[3],2013[3],300,16,,Foundry,Fab 14 (P5)[3]
+TSMC,Fab 14 (P6)[3],"Taiwan, Tainan",4.2[3],2014[3],300,16,,Foundry,Fab 14 (P6)[3]
+TSMC,Fab 14 (P7)[3],"Taiwan, Tainan",4.850[3],2015[3],300,16,,Foundry,Fab 14 (P7)[3]
+TSMC,Fab 15[233],"Taiwan, Taichung",9.3,2011,300,20,"100,000+(166,000 estimate)[234][232][235]",Foundry,Fab 15[233]
+TSMC,Fab 15 (P1)[3],"Taiwan, Taichung",3.125[3],2011,300,,"4,000[3]",Foundry,Fab 15 (P1)[3]
+TSMC,Fab 15 (P2)[3],"Taiwan, Taichung",3.150[3],2012[3],300,,,Foundry,Fab 15 (P2)[3]
+TSMC,Fab 15 (P3)[3],"Taiwan, Taichung",3.750[3],2013[3],300,,,Foundry,Fab 15 (P3)[3]
+TSMC,Fab 15 (P4)[3],"Taiwan, Taichung",3.800[3],2014[3],300,,,Foundry,Fab 15 (P4)[3]
+TSMC,Fab 15 (P5)[3],"Taiwan, Taichung",9.020[3],2016[3],300,,35000,Foundry,Fab 15 (P5)[3]
+TSMC,Fab 18 (P1-P3),"Taiwan, Southern Taiwan Science Park[236][237]",17.08,2020 (P7 under construction),300,5[238],120000,Foundry,Fab 18 (P1-P3)
+TSMC,Fab 18 (P4-P6),"Taiwan, Southern Taiwan Science Park",,"2022 (planned), under construction",300,3[20][239][240],120000,Foundry,Fab 18 (P4-P6)
+TSMC,Fab 21 (P1),"United States,  Arizona, Phoenix",12[241],Q4 2024 [242],300,5 & 4[243],"20,000[243]",Foundry,Fab 21 (P1)
+TSMC,Fab 21 (P2),"United States,  Arizona, Phoenix",65 (shared for Fab 21 site)[242],"2H 2027 (planned), under construction[244][242][245]",,3[242],,Foundry,Fab 21 (P2)
+TSMC,Fab 21 (P3),"United States,  Arizona, Phoenix",65 (shared for Fab 21 site)[242],"2029-2030 (planned), under construction[242][245]",,1.6 & 2[242],,Foundry,Fab 21 (P3)
+Epistar,Fab F1[246],"Taiwan, Longtan Science Park",,,,,,LEDs,Fab F1[246]
+Epistar,Fab A1[246],"Taiwan, Hsinchu Science Park",,,,,,LEDs,Fab A1[246]
+Epistar,Fab N2[246],"Taiwan, Hsinchu Science Park",,,,,,LEDs,Fab N2[246]
+Epistar,Fab N8[246],"Taiwan, Hsinchu Science Park",,,,,,LEDs,Fab N8[246]
+Epistar,Fab N1[246],"Taiwan, Hsinchu Science Park",,,,,,LEDs,Fab N1[246]
+Epistar,Fab N3[246],"Taiwan, Hsinchu Science Park",,,,,,LEDs,Fab N3[246]
+Epistar,Fab N6[246],"Taiwan, Chunan Science Park",,,,,,LEDs,Fab N6[246]
+Epistar,Fab N9[246],"Taiwan, Chunan Science Park",,,,,,LEDs,Fab N9[246]
+Epistar,Fab H1[246],"Taiwan, Central Taiwan Science Park",,,,,,LEDs,Fab H1[246]
+Epistar,Fab S1[246],"Taiwan, Tainan Science Park",,,,,,LEDs,Fab S1[246]
+Epistar,Fab S3[246],"Taiwan, Tainan Science Park",,,,,,LEDs,Fab S3[246]
+Epistar (formerly TSMC)[247][248][249],,"Taiwan, Hsin-Chu Science Park",0.08,"2011, second half",,,,LEDs,nan
+GCS,,"United States,  California, Torrance[3]",,1999[3],100,,6400,"Foundry, GaAs, InGaAs, InGaP, InP, HBT, PICs",nan
+Bosch,,"Germany, Baden-Württemberg, Reutlingen",,1995[250],150,,,"ASIC, analog, power, SiC",nan
+Bosch,,"Germany,  Saxony, Dresden",1.0[251],2021,300,65,,,nan
+Bosch,WaferFab,"Germany, Baden-Württemberg, Reutlingen",0.708[252],2010[250],200,,30000,"ASIC, analog, power, MEMS",WaferFab
+STMicroelectronics,"AMK8 (second, newer fab)","Singapore, Ang Mo Kio",,1995,200,,,,AMK8 (second
+STMicroelectronics (formerly SGS Microelettronica),AMJ9 (first fab),"Singapore, Ang Mo Kio",,1984[253],"150, 200",,"6"" 14 kpcs/day, 8"" 1.4 kpcs/day",Power-MOS/ IGBT/ bipolar/ CMOS,AMJ9 (first fab)
+X-Fab,Erfurt,"Germany, Thuringia, Erfurt",,1985[3],200[254],1000-600[254],11200–[254],"Foundry, InP",Erfurt
+X-Fab (formerly ZMD),Dresden,"Germany,  Saxony, Dresden",0.095[3],1985[3],200[255],1000-350[255],6000–[255],"Foundry, CMOS, GaN-on-Si",Dresden
+X-Fab (formerly MEMS Foundry Itzehoe),Itzehoe,"Germany, Schleswig-Holstein, Itzehoe",,,200[256],,13000–[256],"Foundry, MEMS",Itzehoe
+X-Fab (formerly 1st Silicon)[257][258],Kuching,"Malaysia, Kuching",1.89[3],2000[3],200[259],350-130[259],"30,000–[259]",Foundry,Kuching
+X-Fab (formerly Texas Instruments),Lubbock,"United States,  Texas, Lubbock",0.197[3],1977[3],"150, 200[260]",1000-600[260],15000–[260],"Foundry, SiC",Lubbock
+X-Fab France SAS (formerly Altis Semiconductor) (formerly IBM)[261],ACL-AMF,"France, Île-de-France, Corbeil-Essonnes",,"1991, 1964[3]",200,350-110,,"Foundry, CMOS, RF SOI",ACL-AMF
+IXYS,,"Germany, Hesse, Lampertheim[262]",,,,,,IGBT[262],nan
+IXYS,,"UK,  England, Wiltshire, Chippenham[262]",,,,,,,nan
+IXYS,,"United States, Massachusetts[262]",,,,,,,nan
+IXYS,,"United States,  California[262]",,,,,,,nan
+Samsung,V1-Line[263],"South Korea, Hwaseong",6,"2020, February 20",300,7,,Foundry,V1-Line[263]
+Samsung,S5-Line,"South Korea, Pyeongtaek",,,300,,,Foundry,S5-Line
+Samsung,S4-Line,"South Korea, Hwaseong",,,300,,,Foundry,S4-Line
+Samsung,S3-Line,"South Korea, Hwaseong","10.2, 16.2 (planned)[264][265]",2017[264],300,10,200000,Foundry,S3-Line
+Samsung,S1-Line,"South Korea, Giheung",33 (total),"2005 (second phase), 1983 (first phase)[266][267]",300,65–7,62000,"Foundry, CMOS, FDSOI",S1-Line
+Samsung,Line-6,"South Korea, Giheung",,,"100, 150, 200","1500–500, 180–65",,"Foundry, CMOS, BiCMOS",Line-6
+Samsung,S6-Line,"United States,  Texas, Taylor",,,300,,,Foundry,S6-Line
+Samsung,S2-Line,"United States,  Texas, Austin",16[268][269],2011,300,65–11,92000,"Foundry, CMOS, FDSOI",S2-Line
+Samsung,Pyeongtaek[270][271][264],"South Korea, Pyeongtaek","14.7, 27 (total)[272][269][273][274][275][276][277][169]","2017, July 6",300,14,"450,000[278]","V-NAND, DRAM",Pyeongtaek[270][271][264]
+Samsung,Samsung China Semiconductor[279],"China, Shaanxi Province",,,,,,DDR Memory,Samsung China Semiconductor[279]
+Samsung,F1x1[280][264],"China, Xian",2.3[281],"2014 (first phase, second phase is under review)[264]",300,20,100000,VNAND,F1x1[280][264]
+Samsung,Giheung Campus[282],"South Korea, Gyeonggi-do, Yongin",,,,,,LEDs,Giheung Campus[282]
+Samsung,Hwasung Campus[282],"South Korea, Gyeonggi-do, Hwaseong",,,,,,LEDs,Hwasung Campus[282]
+Samsung,"Tianjin Samsung LED Co., Ltd.[282]","China, Tianjin, Xiqing",,,,,,LEDs,Tianjin Samsung LED Co.
+Seagate,,"United States, Minnesota, Minneapolis[283]",,,,,,"Read/write heads,",nan
+Seagate,,"UK, Northern Ireland[284][285][286][287]",,,,,,Read/write heads,nan
+Broadcom Inc. (formerly Avago),,"United States, Colorado, Fort Collins[288]",,,,,,,nan
+Wolfspeed (formerly Cree Inc.)[289],Durham,"United States, North Carolina, Durham",,,,,,"Compound Semiconductors, LEDs",Durham
+Wolfspeed (formerly Cree Inc.)[290],Research Triangle Park,"United States, North Carolina",,,,,,GaN HEMT RF ICs,Research Triangle Park
+SMART Modular Technologies,,"Brazil, São Paulo, Atibaia",,2006,,,,Packaging,nan
+Infineon Technologies,Villach,"Austria, Carinthia, Villach",,1970[291],"100, 150, 200, 300",,,"MEMS, SiC, GaN",Villach
+Infineon Technologies,Dresden,"Germany,  Saxony, Dresden",3[292],1994–2011[293],"200, 300",90,,,Dresden
+Infineon Technologies,Kulim[294],"Malaysia, Kulim Hi-Tech Park",,2006[295],"200, 300",,50000,"Power Semiconductor, GaN, SiC",Kulim[294]
+Infineon Technologies,Kulim 2,"Malaysia, Kulim Hi-Tech Park",,2015,"200, 300",,50000,"Power Semiconductor, GaN, SiC",Kulim 2
+Infineon Technologies,Kulim 3,"Malaysia, Kulim Hi-Tech Park",8[296],2025,200,,,"Power Semiconductor, GaN, SiC",Kulim 3
+Infineon Technologies,Regensburg[297],"Germany,  Bavaria, Regensburg",,1959,,,,,Regensburg[297]
+Infineon Technologies,Cegled[298],"Hungary, Pest, Cegléd",,,,,,,Cegled[298]
+Infineon Technologies (formerly Cypress Semiconductor) (formerly Spansion) (formerly AMD),Fab 25,"United States,  Texas, Austin[299]",1.5,1995,200,,,,Fab 25
+D-Wave Systems[300],Superconducting Foundry[301],,,,,,,Quantum Processing Units (QPUs)[301],Superconducting Foundry[301]
+GlobalFoundries (formerly AMD),Fab 1 Module 1[302],"Germany,  Saxony, Dresden",3.6[3],2005,300,45-22,"35,000[3]","Foundry, SOI, FDSOI",Fab 1 Module 1[302]
+GlobalFoundries (formerly AMD),Fab 1 Module 2,"Germany,  Saxony, Dresden",4.9[3],1999,300,45-22,"25,000[3]","Foundry, SOI",Fab 1 Module 2
+GlobalFoundries,Fab 1 Module 3,"Germany,  Saxony, Dresden",2.3[3],2011[3],300,45-22,"6,000[3]","Foundry, SOI",Fab 1 Module 3
+GlobalFoundries (formerly Chartered),Fab 2[222],Singapore,1.3[3],1995[3],200,600-350,"56,000[3]","Foundry, SOI",Fab 2[222]
+GlobalFoundries (formerly Chartered),Fab 3/5[222],Singapore,"0.915, 1.2[3]","1997, 1995[3]",200,350-180,54000,"Foundry, SOI",Fab 3/5[222]
+GlobalFoundries (formerly Chartered),Fab 6[222] (merged into Fab 7),Singapore,1.4[3],2000[3],"200, 300 (merged)",180-110,45000,"Foundry, SOI",Fab 6[222] (merged into Fab 7)
+GlobalFoundries (formerly Chartered),Fab 7[302],Singapore,4.6[3],2005[3],300,"130, 110, 90, 65, 40",50000,"Foundry, Bulk CMOS, RF SOI",Fab 7[302]
+GlobalFoundries,Fab 8[302],"United States, New York, Malta","4.6, 2.1, (1, future)[303] 13+ (total)[175][304]","2012, 2014[3]",300,"28, 22, 14, 12","60,000 (+12,500 future)","Foundry, High-K Metal Gate,[305] SOI FinFET",Fab 8[302]
+GlobalFoundries (formerly IBM[306]),Fab 9,"United States, Vermont, Essex Junction",,1957[307],200,350-90,"50,000[308]","Foundry, SiGe, RF SOI, GaN[308]",Fab 9
+GlobalFoundries,Technology Development Center[3],"United States,  New York, Malta",1.5[3],2014[3],,,,,Technology Development Center[3]
+SUNY Poly CNSE,NanoFab 300 North[309],"United States,  New York, Albany","0.175, 0.050","2004, 2005",300,"65, 45, 32, 22",,,NanoFab 300 North[309]
+SUNY Poly CNSE,NanoFab 200[310],"United States,  New York, Albany",0.016,1997,200,,,,NanoFab 200[310]
+SUNY Poly CNSE,NanoFab Central[309],"United States,  New York, Albany",0.15,2009,300,22,,,NanoFab Central[309]
+Skorpios Technologies (formerly Novati) (formerly ATDF) (formerly SEMATECH),,"United States,  Texas, Austin[3][311]",0.065,1989[3],200,,10000,"MEMS, photonics, foundry",nan
+Opto Diode,,"United States,  California, Camarillo[312]",,,,,,"LED, Photodiode, PbS/PbSe Infrared Detectors",nan
+Optek Technology[313],,,,1968,"100, 150",,,"GaAs, LEDs",nan
+II-VI (formerly Oclaro) (formerly Bookham) (formerly NORTHERN TELECOM SEMICONDUCTOR NORTHERN TELECOM EUROPE[313]) (formerly JDS Uniphase) (formerly Uniphase),,,,,,,,"Semiconductor Lasers, Photodiodes",nan
+Infinera,,"United States,  California, Sunnyvale[314][315]",,,,,,,nan
+Rogue Valley Microdevices[316][317][318],,"United States,  Oregon, Medford",,2003,50.8–300,,,"MEMS Foundry, Thin Films Foundry, Silicon Wafers, Wafer Services, MEMS R&D",nan
+Atomica,Fab 1,"United States,  California, Goleta",,2000,"150, 200",350,20000,"Foundry: MEMS, Photonics, Sensors, Biochips",Fab 1
+Sensera,uDev-1,"United States, Massachusetts, Woburn",,2014,150,700,1000,"MEMS, MicroDevice assembly",uDev-1
+Rigetti Computing,Fab-1[319][320][321],"United States,  California, Fremont",,,130,,,Quantum Processors,Fab-1[319][320][321]
+Polar Semiconductor[322],"FAB 1,2,3","United States, Minnesota, Bloomington",,,200,,,"BCD, HV, GMR",FAB 1
+Orbit Semiconductor[313],,,,,100,,,"CCD, CMOS",nan
+Entrepix,,"United States,  Arizona, Tempe[3]",,2003[3],,,,,nan
+Technologies and Devices International,,"United States,  Florida, Silver Springs[3]",,2002[3],,,,,nan
+Soraa Inc,,"United States,  California[323][324]",,,,,,,nan
+Soraa Laser Diode[323],,,,,,,,,nan
+Mirrorcle Technologies,,"United States,  California, Richmond[325]",,,,,,,nan
+Unitec do Brasil,,"Brazil, Minas Gerais, Ribeirão das Neves",,Planned,,,,,nan
+Unitec Blue[326],,"Argentina, Buenos Aires Province, Chascomús",0.3 (1.2 planned)[327],2013,,,,"RFID, SIM, EMV",nan
+Everlight,Yuan-Li Plant,"Taiwan, Miao-Li",,,,,,LEDs,Yuan-Li Plant
+Everlight,Pan-Yu Plant,China,,,,,,LEDs,Pan-Yu Plant
+Everlight,Tu-Cheng Plant,"Taiwan, Taipei Country",,,,,,LEDs,Tu-Cheng Plant
+Optotech[328],,"Taiwan, Hsinchu",,,,,,LEDs,nan
+Arima Optoelectronics,,"Taiwan, Hsinchu[3]",,1999[3],,,,,nan
+Episil Semiconductor,,"Taiwan, Hsinchu[3]",,"1992, 1990, 1988[3]",,,,,nan
+Episil Semiconductor,,"Taiwan, Hsinchu[3]",,"1992, 1990, 1988[3]",,,,,nan
+Creative Sensor Inc. Archived 2017-07-07 at the Wayback Machine[329][330],NanChang Creative Sensor,"China, Jiangxi",,2007,,,,Image Sensors,NanChang Creative Sensor
+Creative Sensor Inc. Archived 2017-07-07 at the Wayback Machine [329],Wuxi Creative Sensor,"China, Jiangsu",,2002,,,,,Wuxi Creative Sensor
+Creative Sensor Inc. Archived 2017-07-07 at the Wayback Machine [329],Wuxi Creative Sensor,"Taiwan, Taipei City",,1998,,,,,Wuxi Creative Sensor
+Visera Technologies[331],Headquarters Phase I,"Taiwan, Hsinchu Science-based Industrial Park",,"2007, September",,,,CMOS Image Sensors,Headquarters Phase I
+Panjit,,"Taiwan, Kaohsiung[3]",0.1,2003[3],,,,,nan
+Nanosystem Fabrication Facility,,Hong Kong[332],,,,,,,nan
+GTA Semiconductor (formerly ASMC)[333][334],"Fab 2, Fab 3[335]","China, Shanghai, Xuhui District",,,200,"350, 180, 150[336]",55333,"HV Analog, Power",Fab 2
+GTA Semiconductor,"Fab 5, Fab 6","China, Shanghai, Pudong New Area",5.1[337],2020,"150, 200, 300",,115000,,Fab 5
+Shanghai Belling[338],,"China, Shanghai",,,150,1200,,"BiCMOS, CMOS",nan
+SiSemi[339],,"China, Shenzhen, Longgang High-tech Industrial Park[340]",,2004,130,,,"Power semiconductors, LED drivers, bipolar power transistors, power MOSFETs",nan
+SiSemi[340],,,,1997,100,,,Transistors,nan
+CRMicro (formerly CSMC)[341],Fab 1,,,1998[3],150[342],,"60,000[3]","HV Analog, MEMS, Power, Analog, Foundry",Fab 1
+CRMicro (formerly CSMC),Fab 2,"China, Wuxi",,2008[3],200[342],"180, 130","40,000[3]","HV Analog, Foundry",Fab 2
+CRMicro (formerly CSMC),Fab 3,,,1995[3],200[342],130,"20,000[3]",,Fab 3
+CRMicro (formerly CSMC),Fab 5,,,2005[3],,,"30,000[3]",,Fab 5
+Nexchip[20],N1[343],"China, Hefei",,Q4 2017,300,150-40,40000,Display Drivers IC[344],N1[343]
+Nexchip[20],N2[343],"China, Hefei",,Under construction,300,,40000,,N2[343]
+Nexchip[20],N3[343],"China, Hefei",,Under construction,300,,40000,,N3[343]
+Nexchip[20],N4[343],"China, Hefei",,Under construction,300,,40000,,N4[343]
+Wandai[20],CQ,"China, Chongqing",,Under construction,300,,20000,,CQ
+San'an Optoelectronics[345],"Tianjin San'an Optoelectronics Co., Ltd.","China, Tianjin",,,,,,LEDs,Tianjin San'an Optoelectronics Co.
+San'an Optoelectronics,"Xiamen San'an Optoelectronics Technology Co., Ltd.","China, Xiamen",,,,,,LEDs,Xiamen San'an Optoelectronics Technology Co.
+San'an Optoelectronics,"Xiamen San'an Optoelectronics Co., Ltd.","China, Xiamen",,,,,,LEDs,Xiamen San'an Optoelectronics Co.
+San'an Optoelectronics,"Wuhu Anrui Optoelectronics Co., Ltd.","China, Wuhu",,,,,,LEDs,Wuhu Anrui Optoelectronics Co.
+San'an Optoelectronics,"Anrui San'an Optoelectronics Co., Ltd.","China, Wuhu",,,,,,LEDs,Anrui San'an Optoelectronics Co.
+San'an Optoelectronics,"Quanzhou San'an Semiconductor Technology Co., Ltd.","China, Nan'an",,,,,,LEDs,Quanzhou San'an Semiconductor Technology Co.
+Sanan IC[346],Xiamen Fab[347],"China, Xiamen",0.00785,2014,150,,30000,"SAW filters, Foundry, GaA, GaN, RF, Power",Xiamen Fab[347]
+Sanan IC,Quanzhou Fab,"China, Quanzhou",4.6,2017,150,,8000,"SAW filters, Foundry, GaA, RF",Quanzhou Fab
+Sanan IC,Changsha Fab,"China, Changsha",2.3,2021,150,,30000,"Foundry, GaN, SiC, Power",Changsha Fab
+Hua Hong Semiconductor,HH Fab7,"China, Wuxi",,,300,90-55,"95,000[348]","Foundry, eNVM, RF, Mixed Signal, Logic, Power Management, Power Discrete",HH Fab7
+Hua Hong Semiconductor,HH Fab1,"China, Shanghai, Jinqiao",,,200,95,"65,000[349]","Foundry, eNVM, RF, Mixed Signal, Logic, Power Management, Power Discrete",HH Fab1
+Hua Hong Semiconductor,HH Fab2,"China, Shanghai, Zhangjiang",,,200,180,"60,000[349]","Foundry, eNVM, RF, Mixed Signal, Logic, Power Management, Power Discrete",HH Fab2
+Hua Hong Semiconductor,HH Fab3,"China, Shanghai, Zhangjiang",,,200,90,"53,000[349]","Foundry, eNVM, RF, Mixed Signal, Logic, Power Management, Power Discrete",HH Fab3
+Hua Hong Semiconductor (HLMC),HH Fab5[350],"China, Shanghai, Zhangjiang",,2011,300,65/55-40,35000,Foundry,HH Fab5[350]
+Hua Hong Semiconductor (HLMC),HH Fab6,"China, Shanghai, Kangqiao",,2018,300,28/22,40000,Foundry,HH Fab6
+HuaLei Optoelectronic,,China,,,,,,LEDs[351],nan
+Sino King Technology[19],,"China, Hefei",,2017,,,,DRAM,nan
+APT Electronics,,"China, Guangzhou[3]",,2006[3],,,,,nan
+Aqualite,,"China, Guangzhou[3]",,2006[3],,,,,nan
+Aqualite,,"China, Wuhan[3]",,2008[3],,,,,nan
+Xiamen Jaysun Semiconductor Manufacturing,Fab 101,"China, Xiamen[3]",0.035,2011[3],,,,,Fab 101
+Xiyue Electronics Technology,Fab 1,"China, Xian[3]",0.096,2007[3],,,,,Fab 1
+Hanking Electronics,Fab 1,"China, Fushun",,2018,200,,"10,000 – 30,000","MEMS Foundry Archived 2021-03-08 at the Wayback Machine, MEMS Design Archived 2021-03-08 at the Wayback Machine MEMS Sensors (Inertial, Pressure, Ultrasound, Piezoelectric, LiDar, Bolometer ) IoT Motion Sensors",Fab 1
+CanSemi[352],Phase I,"China, Guangzhou",4,2019[353],300,180–90[354],20000,"Power, Analog, Power Discrete",Phase I
+CanSemi,Phase II,"China, Guangzhou",,2022,300,90-55,20000,,Phase II
+CanSemi,Phase III,"China, Guangzhou",2.4[355],Planned,300,55-40,40000,"Automotive, IoT",Phase III
+SensFab,,Singapore[3],,1995[3],,,,,nan
+MIMOS Semiconductor,,"Malaysia, Kuala Lumpur[3]","0.006, 0.135","1997, 2002[3]",,,,,nan
+Silterra Malaysia,Fab1,"Malaysia, Kedah, Kulim",1.6,2000,200,"250, 200, 180–90",46000,"CMOS, HV, MEMS, RF, Logic, Analog, Mix Signal",Fab1
+Pyongyang Semiconductor Factory,111 Factory,"North Korea, Pyongyang",,1980s,,3000[356],,,111 Factory
+DB HiTek,Fab 1,"South Korea, Bucheon[3]",,1997[3],,,,Foundry,Fab 1
+DB HiTek,Fab 2,"South Korea, Eumsung-Kun[3]",,2001[3],,,,Foundry,Fab 2
+DB HiTek,Fab 2 Module 2,"South Korea, Eumsung-Kun[3]",,,,,,Foundry,Fab 2 Module 2
+Kodenshi AUK Group[357],Silicon FAB Line,,,,,,,,Silicon FAB Line
+Kodenshi AUK Group[357],Compound FAB Line,,,,,,,,Compound FAB Line
+Kyocera,,,,,,,,SAW devices[145],nan
+Seiko Instruments[358],,"China, Shanghai",,,,,,,nan
+Seiko Instruments[358],,"Japan, Akita",,,,,,,nan
+Seiko Instruments[358],,"Japan, Takatsuka",,,,,,,nan
+Epson[359],T wing,"Japan, Sakata",,1997,200,350-150,25000,,T wing
+Epson[359],S wing,"Japan, Sakata",,1991,150,1200-350,20000,,S wing
+Olympus Corporation[360],Nagano,"Japan, Nagano Prefecture",,,,,,MEMS[361],Nagano
+Olympus,,Japan,,,,,,MEMS[362],nan
+New Japan Radio,Kawagoe Works,"Japan, Saitama Prefecture, Fujimino City[363][364]",,1959[313],"100, 150","4000, 400, 350",,"Bipolar, Mixed Signal, Analog, Hi Speed BiCMOS, BCD, 40V Hi Speed Complementary Bipolar, Analog CMOS+HV, SAW Filters[365]",Kawagoe Works
+New Japan Radio,Saga Electronics Archived 2017-09-19 at the Wayback Machine[366],"Japan, Saga Prefecture",,,"100, 150","4000, 400, 350[367]",,"Foundry, Bipolar, Mixed Signal, Analog, Hi Speed BiCMOS, BCD, 40V Hi Speed Complementary Bipolar, Analog CMOS+HV, SAW Filters[365]",Saga Electronics Archived 2017-09-19 at the Wayback Machine[366]
+New Japan Radio,NJR FUKUOKA Archived 2017-09-18 at the Wayback Machine,"Japan, Fukuoka Prefecture, Fukuoka City[366]",,2003[368],"100, 150",,,"Bipolar, Analog ICs, MOSFETs LSI, BiCMOS ICs",NJR FUKUOKA Archived 2017-09-18 at the Wayback Machine
+New Japan Radio,,"Japan, Nagano, Nagano City[369]",,,,,,,nan
+New Japan Radio,,"Japan, Nagano, Ueda City[369]",,,,,,,nan
+Nichia,YOKOHAMA TECHNOLOGY CENTER[370],"Japan, Kanagawa",,,,,,LEDs,YOKOHAMA TECHNOLOGY CENTER[370]
+Nichia,SUWA TECHNOLOGY CENTER[370],"Japan, Nagano",,,,,,LEDs,SUWA TECHNOLOGY CENTER[370]
+Taiyo Yuden,,"Japan, Nagano",,,,,,SAW devices[145],nan
+Taiyo Yuden,,"Japan, Ome",,,,,,SAW devices[145],nan
+Silex Microsystems,,"Sweden, Stockholm County, Järfälla[3]","0.009, 0.032","2003, 2009[3]",,,,,nan
+Elmos Semiconductor,,"Germany, North Rhine-Westphalia, Dortmund[371]",,1984,200,"800, 350",9000,HV-CMOS,nan
+United Monolithic Semiconductors[372],,"Germany, Baden-Württemberg, Ulm",,,100,"700, 250, 150, 100",,"Foundry, FEOL, MMIC, GaAs pHEMT, InGaP, GaN HEMT, MESFET, Schottky diode",nan
+United Monolithic Semiconductors[372],,"France, Île-de-France, Villebon-sur-Yvette",,,100,,,"Foundry, BEOL",nan
+Innovative Ion Implant,,"France, Provence-Alpes-Côte d'Azur, Peynier",,,51–300[373],,,,nan
+Innovative Ion Implant,,"UK,  Scotland, Bathgate",,,51–300[373],,,,nan
+nanoPHAB,,"Netherlands, North Brabant, Eindhoven",,,50–100,50-10,2–10,MEMS,nan
+Micron Semiconductor Ltd.[374],Lancing,"UK,  England, West Sussex, Lancing",,,,,,Detectors,Lancing
+Pragmatic Semiconductor,FlexLogic 001,"UK,  England, Durham",0.02,2018,200,600,4000,Flexible Semiconductor / Foundry and IDM,FlexLogic 001
+Pragmatic Semiconductor,FlexLogic 002,"UK,  England, Durham",0.05,2023,300,600,15000,Flexible Semiconductor / Foundry and IDM,FlexLogic 002
+Pragmatic Semiconductor,FlexLogic 003,"UK,  England, Durham",0.05,Planned 2025 on line,300,600,15000,Flexible Semiconductor / Foundry and IDM,FlexLogic 003
+INEX Microtechnology,,"UK,  England, Northumberland, Newcastle upon Tyne",,2014,150,,,Foundry,nan
+CSTG,,"UK,  Scotland, Glasgow[3][375]",,2003[3],"76, 100",,,"InP, GaAs, AlAs, AlAsSb, GaSb, GaN, InGaN, AlN, diodes, LEDs, lasers, PICs, Optical amplifiers, Foundry",nan
+Photonix,,"UK,  Scotland, Glasgow[3]",0.011,2000[3],,,,,nan
+Integral,,"Belarus, Minsk",,1963,"100, 150, 200","2000, 1500, 350",,,nan
+VSP Mikron,WaferFab[376],"Russia, Voronezh Oblast, Voronezh",,1959,"100, 150",900+,6000,"Bipolar, Power Semiconductors",WaferFab[376]
+Semikron,Nbg Fab,"Germany, Nuremberg",,1984,150,3500,70000,"Bipolar, Power Semiconductors",Nbg Fab
+NM-Tech,,"Russia, Moscow, Zelenograd",,2016,200,250-110,20000,,nan
+Angstrem,Liniya 100,"Russia, Moscow, Zelenograd",,1963,100,1200,"500 (6,000 per year)[377]",,Liniya 100
+Angstrem,Liniya 150,"Russia, Moscow, Zelenograd",,1963,150,600,"6,000 (72,000 per year)[377]",,Liniya 150
+Mikron Group,Mikron,"Russia, Moscow, Zelenograd",0.4[378],2012,200 150 100,250-65 2000-1600,"3,000 8,000 5,000",,Mikron
+Crocus Nano Electronics,,"Russia, Moscow",0.2,2016,300,90-55,"4,000[379]",BEOL,nan
+NIIIS,,"Russia, Nizhny Novgorod Oblast, Nizhny Novgorod",,2010,100–150,350-150,,MEMS,nan
+NPP Istok,,"Russia, Moscow Oblast, Fryazino",,,150,,,,nan
+Micran,,"Russia, Tomsk Oblast, Tomsk",,2015,100,,,,nan
+Kremny El,,"Russia, Bryansk Oblast, Bryansk",,2019,,500,,,nan
+Syntez Microelectronics,,"Russia,  Voronezh Oblast, Voronezh",,1992,200,350-65,,"SiC, GaN, TSV",nan
+NZPP Vostok,,"Russia, Novosibirsk Oblast, Novosibirsk",,1956,100,250-180,,,nan
+Russian Space Systems,,"Russia, Moscow",,,"76, 100, 150",1000,,,nan
+Ruselectronics,Svetlana-Rost,"Russia, Saint Petersburg",,,"50, 76, 100","1000, 800, 500, 200",,,Svetlana-Rost
+OKB-Planeta,Svetlana-Rost,"Russia, Novgorod Oblast, Veliky Novgorod",,,100,150,,,Svetlana-Rost
+FBK – Fondazione Bruno Kessler,MNF,"Italy, Trento",,1990,500,150,,"Research Institute; prototype productions of silicon MEMS, silicon radiation sensors",MNF
+CEITEC – Centro Nacional de Tecnologia Electrônica Avançada S.A,,"Brazil,  Porto Alegre",,2008,,600,,Research Institute; prototype production,nan
+HT Micron (Hana Micron),São Leopoldo,"Brazil, São Leopoldo",0.2[380],2009,,,,"DRAM, MCP, NAND Flash",São Leopoldo
+Honeywell Aerospace Technologies,,"United States, Redmond, Washington",,,,,,MEMS,nan
+Microchip (formerly Fujitsu Microelectronics)[381][382][383],Fab 4,"United States, Oregon, Gresham",0.1835,,200,110,30000,,Fab 4
+Microchip (formerly Atmel)[384][385][382],Fab 5,"United States, Colorado, Colorado Springs",,,150,250,40000,"Domestic rad-hard MOSFET, silicon carbide, cryptography, hi-rel discretes, MEMS, automotive, analog, microcontrollers, and memory",Fab 5
+"Microchip (part of Microsemi acquisition, formerly New England Semiconductor)[386][387][382]",Lawrence,"United States, Massachusetts, Lawrence",,,76.2 and 100,1000,2000,,Lawrence
+Applied Optoelectronics,FAB1,"United States,  Texas, Sugar Land",,2000,150,,,optoelectronics,FAB1
+Applied Optoelectronics,FAB2,"United States,  Texas, Sugar Land",,2026,,,,optoelectronics,FAB2

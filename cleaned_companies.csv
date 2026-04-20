@@ -1,0 +1,349 @@
+Rank,Company,Market Cap (USD),Country,Sector,Industry
+1,Nvidia Corporation,1186000000000.0,United States,US Technology,US Semiconductors
+2,Broadcom Inc.,495950000000.0,United States,US Technology,US Semiconductors
+3,Taiwan Semiconductor Manufacturing Company Limited,487640000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+4,"Advanced Micro Devices, Inc.",219720000000.0,United States,US Technology,US Semiconductors
+5,Intel Corporation,198490000000.0,United States,US Technology,US Semiconductors
+6,Qualcomm Incorporated,153170000000.0,United States,US Technology,US Semiconductors
+7,Texas Instruments Incorporated,151390000000.0,United States,US Technology,US Semiconductors
+8,"Analog Devices, Inc.",93790000000.0,United States,US Technology,US Semiconductors
+9,"Micron Technology, Inc.",91300000000.0,United States,US Technology,US Semiconductors
+10,"SK hynix, Inc.",75210000000.0,South Korea,South Korean Technology,South Korean Semiconductors
+11,NXP Semiconductors N.V.,55690000000.0,Netherlands,Dutch Technology,Dutch Semiconductors
+12,Marvell Technology Group Ltd.,50200000000.0,Bermuda,Bermuda Technology,Bermuda Semiconductors
+13,Infineon Technologies AG,49860000000.0,Germany,German Technology,German Semiconductors
+14,"Marvell Technology, Inc.",49610000000.0,United States,US Technology,US Semiconductors
+15,"MediaTek, Inc.",49330000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+16,Microchip Technology Incorporated,45770000000.0,United States,US Technology,US Semiconductors
+17,STMicroelectronics N.V.,40870000000.0,Switzerland,Swiss Technology,Swiss Semiconductors
+18,ON Semiconductor Corporation,34180000000.0,United States,US Technology,US Semiconductors
+19,GlobalFoundries Inc.,31550000000.0,United States,US Technology,US Semiconductors
+20,Renesas Electronics Corp,30530000000.0,Japan,Japanese Technology,Japanese Semiconductors
+21,Semiconductor Manufacturing International Corp,29200000000.0,China,Chinese Technology,Chinese Semiconductors
+22,"Monolithic Power Systems, Inc.",27710000000.0,United States,US Technology,US Semiconductors
+23,United Microelectronics Corporation,20740000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+24,"ASE Technology Holding Co., Ltd.",17760000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+25,Will Semiconductor Co. Ltd,16910000000.0,China,Chinese Technology,Chinese Semiconductors
+26,"Skyworks Solutions, Inc.",16830000000.0,United States,US Technology,US Semiconductors
+27,"Qorvo, Inc.",10290000000.0,United States,US Technology,US Semiconductors
+28,Novatek Microelectronics Corp,9810000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+29,Maxscend Microelectronics Company Ltd,9700000000.0,China,Chinese Technology,Chinese Semiconductors
+30,Sanan Optoelectronics Co. Ltd,9550000000.0,China,Chinese Technology,Chinese Semiconductors
+31,"Cree, Inc.",9170000000.0,United States,US Technology,US Semiconductors
+32,Montage Technology Co. Ltd,9120000000.0,China,Chinese Technology,Chinese Semiconductors
+33,Lattice Semiconductor Corporation,9080000000.0,United States,US Technology,US Semiconductors
+34,GlobalWafers Co. Ltd,8310000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+35,Alchip Technologies Ltd,8250000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+36,SCREEN Holdings Co. Ltd,8140000000.0,Japan,Japanese Technology,Japanese Semiconductors
+37,China Resources Microelectronics Ltd,8130000000.0,China,Chinese Technology,Chinese Semiconductors
+38,GigaDevice Semiconductor,8010000000.0,China,Chinese Technology,Chinese Semiconductors
+39,Nanya Technology Corp,7570000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+40,"Amkor Technology, Inc.",7560000000.0,United States,US Technology,US Semiconductors
+41,Realtek Semiconductor Corp,7500000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+42,Global Unichip Corp,7320000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+43,ROHM Co. Ltd,7180000000.0,Japan,Japanese Technology,Japanese Semiconductors
+44,JCET Group Co. Ltd,6990000000.0,China,Chinese Technology,Chinese Semiconductors
+45,Rambus Inc.,6870000000.0,United States,US Technology,US Semiconductors
+46,Onto Innovation Inc.,6810000000.0,United States,US Technology,US Semiconductors
+47,"MACOM Technology Solutions Holdings, Inc.",6170000000.0,United States,US Technology,US Semiconductors
+48,"eMemory Technology, Inc.",5790000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+49,Hua Hong Semiconductor Ltd,5710000000.0,China,Chinese Technology,Chinese Semiconductors
+50,"Allegro MicroSystems, Inc.",5580000000.0,United States,US Technology,US Semiconductors
+51,"GT Advanced Technologies, Inc.",5500000000.0,United States,US Technology,US Semiconductors
+52,Silergy Corp,5490000000.0,China,Chinese Technology,Chinese Semiconductors
+53,SG Micro Corp,5450000000.0,China,Chinese Technology,Chinese Semiconductors
+54,Shinko Electric Industries Co. Ltd,5280000000.0,Japan,Japanese Technology,Japanese Semiconductors
+55,Shanghai Friendess Electronic Technology Corp Ltd,5100000000.0,China,Chinese Technology,Chinese Semiconductors
+56,Changsha Jingjia Microelectronics Co. Ltd,4520000000.0,China,Chinese Technology,Chinese Semiconductors
+57,Powerchip Semiconductor Manufacturing Corp,4470000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+58,"Power Integrations, Inc.",4460000000.0,United States,US Technology,US Semiconductors
+59,Synaptics Incorporated,4220000000.0,United States,US Technology,US Semiconductors
+60,Vanguard International Semiconductor Corp,4200000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+61,"Cirrus Logic, Inc.",4190000000.0,United States,US Technology,US Semiconductors
+62,"ASMedia Technology, Inc.",4100000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+63,Winbond Electronics Corp,3930000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+64,"ASPEED Technology, Inc.",3880000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+65,Silicon Laboratories Inc.,3860000000.0,United States,US Technology,US Semiconductors
+66,Melexis NV,3760000000.0,Belgium,Belgian Technology,Belgian Semiconductors
+67,VisEra Technologies Company Ltd,3550000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+68,WT Microelectronics Co. Ltd,3520000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+69,Tower Semiconductor Ltd.,3500000000.0,Israel,Israeli Technology,Israeli Semiconductors
+70,"Fuzhou Rockchip Electronics Co.,Ltd.",3440000000.0,China,Chinese Technology,Chinese Semiconductors
+71,Zhen Ding Technology Holding Ltd,3390000000.0,Cayman Islands,Cayman Islands Technology,Cayman Islands Semiconductors
+72,Diodes Incorporated,3380000000.0,United States,US Technology,US Semiconductors
+73,King Yuan Electronics Co. Ltd,3300000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+74,"Vishay Intertechnology, Inc.",3190000000.0,United States,US Technology,US Semiconductors
+75,VeriSilicon Microelectronics,3180000000.0,China,Chinese Technology,Chinese Semiconductors
+76,Siltronic AG,3010000000.0,Germany,German Technology,German Semiconductors
+77,"FormFactor, Inc.",2930000000.0,United States,US Technology,US Semiconductors
+78,AP Memory Technology Corp,2800000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+79,Parade Technologies Ltd,2790000000.0,Cayman Islands,Cayman Islands Technology,Cayman Islands Semiconductors
+80,Yangzhou Yangjie Electronic Technology Co. Ltd,2670000000.0,China,Chinese Technology,Chinese Semiconductors
+81,"Risen Energy Co.,Ltd.",2630000000.0,China,Chinese Technology,Chinese Semiconductors
+82,SiTime Corporation,2620000000.0,United States,US Technology,US Semiconductors
+83,"VIA Technologies, Inc.",2600000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+84,"Hangzhou Lion Electronics Co.,Ltd",2470000000.0,China,Chinese Technology,Chinese Semiconductors
+85,Tokyo Seimitsu Co. Ltd,2340000000.0,Japan,Japanese Technology,Japanese Semiconductors
+86,Silicon Motion Technology Corporation,2170000000.0,Hong Kong,HK Technology,HK Semiconductors
+87,Nordic Semiconductor ASA,2090000000.0,Norway,Norway Technology,Norway Semiconductors
+88,"Hunan Goke Microelectronics Co.,Ltd.",2080000000.0,China,Chinese Technology,Chinese Semiconductors
+89,WIN Semiconductors Corp,2070000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+90,Beijing Huafeng Test & Control Technology Co. Ltd,2010000000.0,China,Chinese Technology,Chinese Semiconductors
+91,Jiangsu Nata Opto-electronic Material Co. Ltd,2000000000.0,China,Chinese Technology,Chinese Semiconductors
+92,Nuvoton Technology Corp,1910000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+93,China Wafer Level CSP Co. Ltd,1880000000.0,China,Chinese Technology,Chinese Semiconductors
+94,Macronix International Co. Ltd,1880000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+95,"Allwinnertech Technology Co.,Ltd.",1830000000.0,China,Chinese Technology,Chinese Semiconductors
+96,"Mitsui High-tec, Inc.",1830000000.0,Japan,Japanese Technology,Japanese Semiconductors
+97,Chipbond Technology Corp,1810000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+98,"MaxLinear, Inc.",1770000000.0,United States,US Technology,US Semiconductors
+99,JAPAN MATERIAL Co. Ltd,1720000000.0,Japan,Japanese Technology,Japanese Semiconductors
+100,ELAN Microelectronics Corp,1450000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+101,Shanghai Sinyang Semiconductor Materials Co. Ltd,1440000000.0,China,Chinese Technology,Chinese Semiconductors
+102,Kinsus Interconnect Technology Corp,1440000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+103,M31 Technology Corp,1370000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+104,X-FAB Silicon Foundries SE,1360000000.0,Belgium,Belgian Technology,Belgian Semiconductors
+105,Semtech Corporation,1320000000.0,United States,US Technology,US Semiconductors
+106,Sanken Electric Co. Ltd,1190000000.0,Japan,Japanese Technology,Japanese Semiconductors
+107,TOWA Corp,1150000000.0,Japan,Japanese Technology,Japanese Semiconductors
+108,Espressif Systems,1110000000.0,China,Chinese Technology,Chinese Semiconductors
+109,Silicon Integrated Systems Corp,1110000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+110,Sitronix Technology Corp,1090000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+111,"Xintec, Inc.",1090000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+112,Alphawave IP Group plc,1080000000.0,United Kingdom,UK Technology,UK Semiconductors
+113,"Himax Technologies, Inc.",1060000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+114,Gudeng Precision Industrial Co. Ltd,1030000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+115,Sino Wealth Electronic Ltd,1030000000.0,China,Chinese Technology,Chinese Semiconductors
+116,Chang Wah Technology Co. Ltd,1020000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+117,Supreme Electronics Co. Ltd,985300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+118,ChipMOS TECHNOLOGIES INC.,981200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+119,Orient Semiconductor Electronics Ltd,980900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+120,"Fitipower Integrated Technology, Inc.",970600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+121,Raydium Semiconductor Corp,959200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+122,ADATA Technology Co. Ltd,936100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+123,"SMART Global Holdings, Inc.",922200000.0,United States,US Technology,US Semiconductors
+124,Shenzhen Fine Made Electronics Group Co. Ltd,911200000.0,China,Chinese Technology,Chinese Semiconductors
+125,WinWay Technology Co. Ltd,898900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+126,Xiamen Changelight Co. Ltd,891500000.0,China,Chinese Technology,Chinese Semiconductors
+127,Bomin Electronics Co. Ltd,888500000.0,China,Chinese Technology,Chinese Semiconductors
+128,Ferrotec Holdings Corp,873600000.0,Japan,Japanese Technology,Japanese Semiconductors
+129,NeoPhotonics Corporation,859600000.0,United States,US Technology,US Semiconductors
+130,"Jiangsu Zongyi Co.,LTD",855900000.0,China,Chinese Technology,Chinese Semiconductors
+131,"TKD Science and Technology Co.,Ltd.",855500000.0,China,Chinese Technology,Chinese Semiconductors
+132,"Tri Chemical Laboratories, Inc.",848000000.0,Japan,Japanese Technology,Japanese Semiconductors
+133,Shanghai Bright Power Semiconductor Co. Ltd,843300000.0,China,Chinese Technology,Chinese Semiconductors
+134,"Elite Semiconductor Microelectronics Tech, Inc.",838200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+135,Wuxi Chipown Micro-electronics Ltd,829800000.0,China,Chinese Technology,Chinese Semiconductors
+136,Andes Technology Corp,804800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+137,"ITE Tech., Inc.",795300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+138,uPI Semiconductor Corp,774500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+139,"Applied Optoelectronics, Inc.",763300000.0,United States,US Technology,US Semiconductors
+140,Advanced Wireless Semiconductor Company,758800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+141,Zilltek Technology Corp,752200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+142,"Episil Holding, Inc.",750400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+143,FocalTech Systems Co. Ltd,748300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+144,"Global Mixed-Mode Technology, Inc.",746000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+145,RDC Semiconductor Co. Ltd,744100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+146,Alpha and Omega Semiconductor Limited,731000000.0,United States,US Technology,US Semiconductors
+147,"PixArt Imaging, Inc.",716600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+148,Everlight Electronics Co. Ltd,705200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+149,Taiwan Semiconductor Co. Ltd,673500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+150,LuxNet Corp,665700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+151,"Foxsemicon Integrated Technology, Inc.",657000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+152,Silex Systems Limited,655700000.0,Australia,Australian Technology,Australian Semiconductors
+153,Opto Tech Corp,650700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+154,Sunplus Technology Company Ltd,632800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+155,Restar Holdings Corp,614100000.0,Japan,Japanese Technology,Japanese Semiconductors
+156,MegaChips Corp,596500000.0,Japan,Japanese Technology,Japanese Semiconductors
+157,"nLIGHT, Inc.",593400000.0,United States,US Technology,US Semiconductors
+158,Shanghai Fortune Techgroup Co. Ltd,574300000.0,China,Chinese Technology,Chinese Semiconductors
+159,RS Technologies Co. Ltd,552300000.0,Japan,Japanese Technology,Japanese Semiconductors
+160,Leaguer,540300000.0,China,Chinese Technology,Chinese Semiconductors
+161,ShunSin Technology Holdings Ltd,537200000.0,Cayman Islands,Cayman Islands Technology,Cayman Islands Semiconductors
+162,"DSP Group, Inc.",532700000.0,United States,US Technology,US Semiconductors
+163,Anpec Electronics Corp,529500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+164,Ryoyo Electro Corp,522400000.0,Japan,Japanese Technology,Japanese Semiconductors
+165,Scientech Corp,522300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+166,Weebit Nano Limited,521400000.0,Australia,Australian Technology,Australian Semiconductors
+167,"Netlist, Inc.",517200000.0,United States,US Technology,US Semiconductors
+168,"Shenzhen Refond Optoelectronics Co.,Ltd.",509800000.0,China,Chinese Technology,Chinese Semiconductors
+169,MEMSensing Microsystems,497500000.0,China,Chinese Technology,Chinese Semiconductors
+170,"CEVA, Inc.",496900000.0,United States,US Technology,US Semiconductors
+171,RichWave Technology Corp,494400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+172,Co-Tech Development Corp,485700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+173,"Changzhou Galaxy Century Microelectronics Co.,Ltd.",480700000.0,China,Chinese Technology,Chinese Semiconductors
+174,"Holtek Semiconductor, Inc.",478400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+175,SECO S.p.A.,473200000.0,Italy,Italian Technology,Italian Semiconductors
+176,Furuya Metal Co. Ltd,460500000.0,Japan,Japanese Technology,Japanese Semiconductors
+177,Ryoden Corp,421000000.0,Japan,Japanese Technology,Japanese Semiconductors
+178,"SkyWater Technology, Inc.",402100000.0,United States,US Technology,US Semiconductors
+179,Beijing XIAOCHENG Technology Stock Co. Ltd,379700000.0,China,Chinese Technology,Chinese Semiconductors
+180,Amazing Microelectronic Corp,371800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+181,Advanced Power Electronics Co. Ltd,360800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+182,NVE Corporation,353100000.0,United States,US Technology,US Semiconductors
+183,"Genesys Logic, Inc.",348700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+184,"Sunplus Innovation Technology, Inc.",344700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+185,Hagiwara Electric Holdings Co. Ltd,340500000.0,Japan,Japanese Technology,Japanese Semiconductors
+186,"Sonix Technology Co.,Ltd.",299800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+187,FIT Holding Co. Ltd,297300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+188,Resonant Inc.,294400000.0,United States,US Technology,US Semiconductors
+189,MagnaChip Semiconductor Corporation,293000000.0,Luxembourg,Luxembourg Technology,Luxembourg Semiconductors
+190,Phoenix Silicon International Corp,285800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+191,Analog Integrations Corp,275800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+192,"Silicon Optronics, Inc.",263800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+193,Youngtek Electronics Corp,260900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+194,Prosperity Dielectrics Co. Ltd,260800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+195,Tomen Devices Corp,255400000.0,Japan,Japanese Technology,Japanese Semiconductors
+196,ASIX Electronics Corp,252700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+197,"M3 Technology, Inc.",241300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+198,Jih Lin Technology Co. Ltd,235100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+199,"UltraChip, Inc.",234500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+200,"POET Technologies, Inc.",232100000.0,Canada,Canadian Technology,Canadian Semiconductors
+201,"Apacer Technology, Inc.",231500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+202,AOI Electronics Co. Ltd,225300000.0,Japan,Japanese Technology,Japanese Semiconductors
+203,TA-I Technology Co. Ltd,222200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+204,"Integrated Service Technology, Inc.",216500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+205,BrainChip Holdings Ltd,213600000.0,Australia,Australian Technology,Australian Semiconductors
+206,Excelliance MOS Corp,211500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+207,Satori Electric Co. Ltd,206200000.0,Japan,Japanese Technology,Japanese Semiconductors
+208,"Jiangsu Huasheng Tianlong Photoelectric Co.,Ltd.",197200000.0,China,Chinese Technology,Chinese Semiconductors
+209,QuickLogic Corporation,197000000.0,United States,US Technology,US Semiconductors
+210,Chip Hope Co. Ltd,195500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+211,Sanshin Electronics Co. Ltd,193600000.0,Japan,Japanese Technology,Japanese Semiconductors
+212,Kalray SA,193200000.0,France,French Technology,French Semiconductors
+213,"Everspin Technologies, Inc.",191500000.0,United States,US Technology,US Semiconductors
+214,Leadtrend Technology Corp,190400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+215,"Generalplus Technology, Inc.",190100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+216,Champion Microelectronic Corp,189600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+217,Valuetronics Holdings Ltd,188500000.0,Hong Kong,HK Technology,HK Semiconductors
+218,"Techpoint, Inc.",184200000.0,United States,US Technology,US Semiconductors
+219,Laster Tech Co. Ltd,179700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+220,Princeton Technology Corp,179600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+221,Tyntek Corp,179300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+222,"JALCO Holdings, Inc.",176500000.0,Japan,Japanese Technology,Japanese Semiconductors
+223,Sequans Communications SA,174200000.0,France,French Technology,French Semiconductors
+224,Harvatek Corp,172000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+225,"Mosel Vitelic, Inc.",171000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+226,AXELL Corp,168400000.0,Japan,Japanese Technology,Japanese Semiconductors
+227,Takatori Corp,166700000.0,Japan,Japanese Technology,Japanese Semiconductors
+228,JMicron Technology Corp,165100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+229,"Rafael Microelectronics, Inc.",157900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+230,"C-Media Electronics, Inc.",157000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+231,"Macroblock, Inc.",156400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+232,inTEST Corporation,151300000.0,United States,US Technology,US Semiconductors
+233,Sivers IMA Holding AB,147500000.0,Sweden,Swedish Technology,Swedish Semiconductors
+234,Feedback Technology Corp,145000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+235,Gallant Micro. Machining Co. Ltd,141500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+236,Glosel Co. Ltd,138000000.0,Japan,Japanese Technology,Japanese Semiconductors
+237,Niko Semiconductor Co. Ltd,137800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+238,Grand Venture Technology Ltd,136300000.0,Singapore,Singaporean Technology,Singaporean Semiconductors
+239,Torex Semiconductor Ltd,135900000.0,Japan,Japanese Technology,Japanese Semiconductors
+240,"Advanced Optoelectronic Technology, Inc.",134500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+241,"Sinopower Semiconductor, Inc.",132900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+242,PADAUK Technology Co. Ltd,131900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+243,O2Micro International Limited,130800000.0,Cayman Islands,Cayman Islands Technology,Cayman Islands Semiconductors
+244,"eGalax_eMPIA Technology, Inc.",124400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+245,Centrotherm International AG,119200000.0,Germany,German Technology,German Semiconductors
+246,"Advanced Analog Technology, Inc.",118400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+247,"GCS Holdings, Inc.",116200000.0,Cayman Islands,Cayman Islands Technology,Cayman Islands Semiconductors
+248,"Ene Technology, Inc.",109900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+249,"iCatch Technology, Inc.",109100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+250,Yield Microelectronics Corp,107000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+251,IC Plus Corp,105000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+252,"KENT Industrial Co.,Ltd.",102900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+253,"Davicom Semiconductor, Inc.",101000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+254,Solomon Systech (International) Ltd,100000000.0,Hong Kong,HK Technology,HK Semiconductors
+255,Silicon Craft Technology Public Company Ltd,99100000.0,Thailand,Thai Technology,Thai Semiconductors
+256,"Inergy Technology, Inc.",97700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+257,JMC Electronics Co. Ltd,97400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+258,"Prolific Technology, Inc.",96000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+259,"Ibase Gaming, Inc.",95600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+260,LEATEC Fine Ceramics Co. Ltd,93900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+261,MetaTech,93000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+262,4DS Memory Limited,92900000.0,Australia,Australian Technology,Australian Semiconductors
+263,CoAsia Electronics Corp,92000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+264,Stars Microelectronics,90300000.0,Thailand,Thai Technology,Thai Semiconductors
+265,Sentelic Corp,89000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+266,TrueLight Corp,83500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+267,Taiwan IC Packaging Corp,81700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+268,Paragon ID SA,81200000.0,France,French Technology,French Semiconductors
+269,CML Microsystems plc,81200000.0,United Kingdom,UK Technology,UK Semiconductors
+270,Nyquest Technology Co. Ltd,79800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+271,"Feature Integration Technology, Inc.",79100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+272,"IntelliEPI, Inc.",74300000.0,United States,US Technology,US Semiconductors
+273,"Pixelworks, Inc.",72000000.0,United States,US Technology,US Semiconductors
+274,Hycon Technology Corp,66500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+275,Gigastone Corp,65800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+276,"THine Electronics, Inc.",64700000.0,Japan,Japanese Technology,Japanese Semiconductors
+277,"Shian Yih Electronic Industry Co.,Ltd",64500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+278,Gia-Tzoong Enterprise Co. Ltd,63300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+279,"GSI Technology, Inc.",62300000.0,United States,US Technology,US Semiconductors
+280,Professional Computer Technology Ltd,60500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+281,"Advanced Microelectronic Products, Inc.",60000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+282,Syntek Semiconductor Co. Ltd,59400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+283,Solid State System Co. Ltd,56700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+284,Vate Technology Co. Ltd,56600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+285,Megawin Technology Co. Ltd,56500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+286,Fuzetec Technology Co. Ltd,56100000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+287,"WiseChip Semiconductor, Inc.",55400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+288,Force MOS Technology Co. Ltd,54200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+289,Densan Co. Ltd,54100000.0,Japan,Japanese Technology,Japanese Semiconductors
+290,"Kyoei Sangyo Co.,Ltd.",52200000.0,Japan,Japanese Technology,Japanese Semiconductors
+291,Singbao International Co. Ltd,50400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+292,ASEC International Corp,48600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+293,"iSTART-TEK, Inc.",47300000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+294,ETREND Hightech Corp,46400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+295,Major-Power Technology Co. Ltd,46400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+296,Zen Voce Corp,42000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+297,Mospec Semiconductor Corp,41700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+298,"WILLTEC Co.,Ltd.",40700000.0,Japan,Japanese Technology,Japanese Semiconductors
+299,Avi-Tech Electronics Ltd,40000000.0,Singapore,Singaporean Technology,Singaporean Semiconductors
+300,"MoSys, Inc.",39200000.0,United States,US Technology,US Semiconductors
+301,"Micromem Technologies, Inc.",38800000.0,Canada,Canadian Technology,Canadian Semiconductors
+302,HY Electronic,37000000.0,Cayman Islands,Cayman Islands Technology,Cayman Islands Semiconductors
+303,"Soshin Electric Co.,Ltd.",36800000.0,Japan,Japanese Technology,Japanese Semiconductors
+304,EMCORE Corporation,35500000.0,United States,US Technology,US Semiconductors
+305,Unifosa Corp,35400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+306,"Myson Century, Inc.",35000000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+307,Tekcore Co. Ltd,32900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+308,"Sunnic Technology & Merchandise, Inc.",32900000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+309,Alpha Microelectronics Corp,31800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+310,"V-TAC Technology Co.,Ltd.",31500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+311,Polylite Taiwan Co. Ltd,31500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+312,East Tender Optoelectronics Corp,30500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+313,"AverLogic Technologies, Corp",30200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+314,Promaster Technology Corp,29700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+315,Higher Way Electronic Co. Ltd,29400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+316,Alcorlink Corp,29200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+317,RoodMicrotec N.V.,27500000.0,Netherlands,Dutch Technology,Dutch Semiconductors
+318,Teamphon Energy Co. Ltd,26500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+319,iROC Co. Ltd,25700000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+320,Arima Lasers Corp,23800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+321,"PFC Device, Inc.",21600000.0,Hong Kong,HK Technology,HK Semiconductors
+322,Sunright Ltd,20500000.0,Singapore,Singaporean Technology,Singaporean Semiconductors
+323,"TM Technology, Inc.",20400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+324,"Oriental System Technology, Inc.",20400000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+325,Risecomm Group Holdings Ltd,19600000.0,China,Chinese Technology,Chinese Semiconductors
+326,"Silicon Touch Technology, Inc.",18600000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+327,"3s Silicon Tech., Inc.",18200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+328,WISeKey International Holding AG,18100000.0,Switzerland,Swiss Technology,Swiss Semiconductors
+329,Avid Electronics Corp,17500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+330,"Parkervision, Inc.",13600000.0,United States,US Technology,US Semiconductors
+331,Confidence Intelligence Holdings Ltd,11400000.0,China,Chinese Technology,Chinese Semiconductors
+332,Brainhole Technology Ltd,8800000.0,Hong Kong,HK Technology,HK Semiconductors
+333,Bluechiip Limited,7000000.0,Australia,Australian Technology,Australian Semiconductors
+334,SemiLEDs Corporation,6500000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+335,Sync Power Corp,5800000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+336,Contel Technology Company Ltd,5800000.0,Hong Kong,HK Technology,HK Semiconductors
+337,Powersafe Technology Corp,5200000.0,United States,US Technology,US Semiconductors
+338,Quantum Numbers Corp,5100000.0,Canada,Canadian Technology,Canadian Semiconductors
+339,"Genesis Photonics, Inc.",4200000.0,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+340,Sensera Limited,4100000.0,Australia,Australian Technology,Australian Semiconductors
+341,Phoenitron Holdings Ltd,3100000.0,Hong Kong,HK Technology,HK Semiconductors
+342,"Summit Wireless Technologies, Inc.",2700000.0,United States,US Technology,US Semiconductors
+343,Labat Africa Ltd,2500000.0,South Africa,South African Technology,South African Semiconductors
+344,NeoMagic Corp,1600000.0,United States,US Technology,US Semiconductors
+345,EEMS Italia SpA,1400000.0,Italy,Italian Technology,Italian Semiconductors
+346,"Odyssey Semiconductor Technologies, Inc.",916336.0,United States,US Technology,US Semiconductors
+347,"CardXX, Inc.",231333.0,United States,US Technology,US Semiconductors
+348,Cyberlux Corp,154425.0,United States,US Technology,US Semiconductors
