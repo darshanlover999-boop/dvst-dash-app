@@ -3,9 +3,9 @@ import pandas as pd
 import plotly.express as px
 from dash import Dash, dcc, html, Input, Output
 
-CLEANED_COMPANIES_PATH = r"E:\2ND SEMISTER\DVST\dvst project\cleaned_companies.csv"
-CLEANED_FAB_PATH = r"E:\2ND SEMISTER\DVST\dvst project\cleaned_fab.csv"
-CLEANED_TRADE_PATH = r"E:\2ND SEMISTER\DVST\dvst project\cleaned_trade.csv"
+CLEANED_COMPANIES_PATH = "cleaned_companies.csv"
+CLEANED_FAB_PATH = "cleaned_fab.csv"
+CLEANED_TRADE_PATH = "cleaned_trade.csv"
 
 
 def load_data(path):
