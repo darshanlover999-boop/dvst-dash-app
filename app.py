@@ -1,4 +1,13 @@
 import os
+import subprocess
+import sys
+
+try:
+    import pandas  # noqa: F401
+except ImportError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "pandas==2.0.3"])
+    import pandas  # noqa: F401
+    
 import pandas as pd
 import plotly.express as px
 from dash import Dash, dcc, html, Input, Output
